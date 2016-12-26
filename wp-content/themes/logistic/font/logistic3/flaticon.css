@@ -1,0 +1,334 @@
+@font-face {
+	font-family: "Flaticon3";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: 'Flaticon3';
+		src: url('flaticon.svg#fontset') format('svg');	
+	}
+}
+[class^="oic-flaticon3-"]:before, [class*=" oic-flaticon3-"]:before,
+[class^="oic-flaticon3-"]:after, [class*=" oic-flaticon3-"]:after {   
+	font-family: Flaticon3;
+	/*font-size: 20px;*/
+	font-style: normal;
+	/*margin-left: 20px;*/
+}.oic-flaticon3-airplane100:before {
+	content: "\e000";
+}
+.oic-flaticon3-airplane101:before {
+	content: "\e001";
+}
+.oic-flaticon3-airplane103:before {
+	content: "\e002";
+}
+.oic-flaticon3-arrows101:before {
+	content: "\e003";
+}
+.oic-flaticon3-boat27:before {
+	content: "\e004";
+}
+.oic-flaticon3-boat28:before {
+	content: "\e005";
+}
+.oic-flaticon3-boat29:before {
+	content: "\e006";
+}
+.oic-flaticon3-box74:before {
+	content: "\e007";
+}
+.oic-flaticon3-box75:before {
+	content: "\e008";
+}
+.oic-flaticon3-box76:before {
+	content: "\e009";
+}
+.oic-flaticon3-box77:before {
+	content: "\e00a";
+}
+.oic-flaticon3-box78:before {
+	content: "\e00b";
+}
+.oic-flaticon3-boxes3:before {
+	content: "\e00c";
+}
+.oic-flaticon3-broken43:before {
+	content: "\e00d";
+}
+.oic-flaticon3-building70:before {
+	content: "\e00e";
+}
+.oic-flaticon3-calendar152:before {
+	content: "\e00f";
+}
+.oic-flaticon3-callcenter:before {
+	content: "\e010";
+}
+.oic-flaticon3-circular250:before {
+	content: "\e011";
+}
+.oic-flaticon3-circular251:before {
+	content: "\e012";
+}
+.oic-flaticon3-compass103:before {
+	content: "\e013";
+}
+.oic-flaticon3-crane16:before {
+	content: "\e014";
+}
+.oic-flaticon3-delivery46:before {
+	content: "\e015";
+}
+.oic-flaticon3-delivery47:before {
+	content: "\e016";
+}
+.oic-flaticon3-delivery48:before {
+	content: "\e017";
+}
+.oic-flaticon3-furniture2:before {
+	content: "\e018";
+}
+.oic-flaticon3-global34:before {
+	content: "\e019";
+}
+.oic-flaticon3-global35:before {
+	content: "\e01a";
+}
+.oic-flaticon3-global36:before {
+	content: "\e01b";
+}
+.oic-flaticon3-information65:before {
+	content: "\e01c";
+}
+.oic-flaticon3-international33:before {
+	content: "\e01d";
+}
+.oic-flaticon3-international34:before {
+	content: "\e01e";
+}
+.oic-flaticon3-label30:before {
+	content: "\e01f";
+}
+.oic-flaticon3-logistcs:before {
+	content: "\e020";
+}
+.oic-flaticon3-logistics10:before {
+	content: "\e021";
+}
+.oic-flaticon3-logistics11:before {
+	content: "\e022";
+}
+.oic-flaticon3-logistics12:before {
+	content: "\e023";
+}
+.oic-flaticon3-logistics13:before {
+	content: "\e024";
+}
+.oic-flaticon3-logistics14:before {
+	content: "\e025";
+}
+.oic-flaticon3-logistics15:before {
+	content: "\e026";
+}
+.oic-flaticon3-logistics16:before {
+	content: "\e027";
+}
+.oic-flaticon3-logistics17:before {
+	content: "\e028";
+}
+.oic-flaticon3-logistics18:before {
+	content: "\e029";
+}
+.oic-flaticon3-logistics19:before {
+	content: "\e02a";
+}
+.oic-flaticon3-logistics20:before {
+	content: "\e02b";
+}
+.oic-flaticon3-logistics21:before {
+	content: "\e02c";
+}
+.oic-flaticon3-logistics22:before {
+	content: "\e02d";
+}
+.oic-flaticon3-logistics23:before {
+	content: "\e02e";
+}
+.oic-flaticon3-logistics24:before {
+	content: "\e02f";
+}
+.oic-flaticon3-logistics25:before {
+	content: "\e030";
+}
+.oic-flaticon3-logistics26:before {
+	content: "\e031";
+}
+.oic-flaticon3-logistics27:before {
+	content: "\e032";
+}
+.oic-flaticon3-logistics28:before {
+	content: "\e033";
+}
+.oic-flaticon3-logistics29:before {
+	content: "\e034";
+}
+.oic-flaticon3-logistics30:before {
+	content: "\e035";
+}
+.oic-flaticon3-logistics31:before {
+	content: "\e036";
+}
+.oic-flaticon3-logistics32:before {
+	content: "\e037";
+}
+.oic-flaticon3-logistics33:before {
+	content: "\e038";
+}
+.oic-flaticon3-logistics34:before {
+	content: "\e039";
+}
+.oic-flaticon3-logistics35:before {
+	content: "\e03a";
+}
+.oic-flaticon3-logistics36:before {
+	content: "\e03b";
+}
+.oic-flaticon3-logistics37:before {
+	content: "\e03c";
+}
+.oic-flaticon3-logistics38:before {
+	content: "\e03d";
+}
+.oic-flaticon3-logistics39:before {
+	content: "\e03e";
+}
+.oic-flaticon3-logistics40:before {
+	content: "\e03f";
+}
+.oic-flaticon3-logistics41:before {
+	content: "\e040";
+}
+.oic-flaticon3-logistics42:before {
+	content: "\e041";
+}
+.oic-flaticon3-logistics43:before {
+	content: "\e042";
+}
+.oic-flaticon3-logistics44:before {
+	content: "\e043";
+}
+.oic-flaticon3-logistics45:before {
+	content: "\e044";
+}
+.oic-flaticon3-logistics46:before {
+	content: "\e045";
+}
+.oic-flaticon3-logistics47:before {
+	content: "\e046";
+}
+.oic-flaticon3-logistics48:before {
+	content: "\e047";
+}
+.oic-flaticon3-logistics49:before {
+	content: "\e048";
+}
+.oic-flaticon3-logistics50:before {
+	content: "\e049";
+}
+.oic-flaticon3-logistics51:before {
+	content: "\e04a";
+}
+.oic-flaticon3-logistics52:before {
+	content: "\e04b";
+}
+.oic-flaticon3-logistics6:before {
+	content: "\e04c";
+}
+.oic-flaticon3-logistics7:before {
+	content: "\e04d";
+}
+.oic-flaticon3-logistics8:before {
+	content: "\e04e";
+}
+.oic-flaticon3-logistics9:before {
+	content: "\e04f";
+}
+.oic-flaticon3-man456:before {
+	content: "\e050";
+}
+.oic-flaticon3-map98:before {
+	content: "\e051";
+}
+.oic-flaticon3-men27:before {
+	content: "\e052";
+}
+.oic-flaticon3-package24:before {
+	content: "\e053";
+}
+.oic-flaticon3-package25:before {
+	content: "\e054";
+}
+.oic-flaticon3-package26:before {
+	content: "\e055";
+}
+.oic-flaticon3-package27:before {
+	content: "\e056";
+}
+.oic-flaticon3-person323:before {
+	content: "\e057";
+}
+.oic-flaticon3-phone362:before {
+	content: "\e058";
+}
+.oic-flaticon3-phone366:before {
+	content: "\e059";
+}
+.oic-flaticon3-platform12:before {
+	content: "\e05a";
+}
+.oic-flaticon3-protected6:before {
+	content: "\e05b";
+}
+.oic-flaticon3-protected7:before {
+	content: "\e05c";
+}
+.oic-flaticon3-recycle71:before {
+	content: "\e05d";
+}
+.oic-flaticon3-search93:before {
+	content: "\e05e";
+}
+.oic-flaticon3-telephone100:before {
+	content: "\e05f";
+}
+.oic-flaticon3-telephone101:before {
+	content: "\e060";
+}
+.oic-flaticon3-truck51:before {
+	content: "\e061";
+}
+.oic-flaticon3-truck52:before {
+	content: "\e062";
+}
+.oic-flaticon3-two363:before {
+	content: "\e063";
+}
+.oic-flaticon3-umbrella48:before {
+	content: "\e064";
+}
+.oic-flaticon3-umbrella49:before {
+	content: "\e065";
+}
+.oic-flaticon3-upload108:before {
+	content: "\e066";
+}
+.oic-flaticon3-weight15:before {
+	content: "\e067";
+}

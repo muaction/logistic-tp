@@ -1,0 +1,2859 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vp_textdomain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-20 14:40+0300\n"
+"PO-Revision-Date: 2016-04-20 14:41+0300\n"
+"Last-Translator: Ozy Themes <ozy@ozythemes.com>\n"
+"Language-Team: FreeVision <team@freevision.me>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Error 404 Not Found"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops. Fail. The page cannot be found."
+msgstr ""
+
+#: 404.php:16
+msgid "Please check your URL or use the search form below."
+msgstr ""
+
+#: 404.php:18
+msgid "Click here to return main page"
+msgstr ""
+
+#: admin/data_sources.php:6
+msgid "-Use Generic-"
+msgstr ""
+
+#: admin/data_sources.php:67 admin/data_sources.php:93
+#: admin/data_sources.php:106
+msgid "All"
+msgstr ""
+
+#: admin/data_sources.php:122 admin/data_sources.php:150
+msgid "-Not in Use-"
+msgstr ""
+
+#: admin/data_sources.php:136
+msgid "-Revolution Slider is not activated-"
+msgstr ""
+
+#: admin/data_sources.php:164
+msgid "-Master Slider is not activated-"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:6
+msgid "Font Options"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:15
+msgid "Custom Font"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:20
+msgid "Font Identifier"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:21
+msgid "Exact name of the font. * Font type name"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:28
+msgid "EOT File"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:29
+msgid "Upload or choose a EOT font file."
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:35
+msgid "WOFF File"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:36
+msgid "Upload or choose a WOFF font file."
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:42
+msgid "TTF File"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:43
+msgid "Upload or choose an TTF font file."
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:49
+msgid "SVG File"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:50
+msgid "Upload or choose an SVG font file."
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:56 admin/option/option.php:239
+#: admin/option/option.php:759
+msgid "Font Weight"
+msgstr ""
+
+#: admin/metabox/ozy_custom_font.php:107 admin/option/option.php:222
+#: admin/option/option.php:742
+msgid "Font Style"
+msgstr ""
+
+#: admin/metabox/page.php:6
+msgid "Page Options"
+msgstr ""
+
+#: admin/metabox/page.php:12 functions/widgets.php:321
+msgid "Custom Menu"
+msgstr ""
+
+#: admin/metabox/page.php:13
+msgid "You can select a custom menu for this page."
+msgstr ""
+
+#: admin/metabox/page.php:27
+msgid "Revolution Header Slider"
+msgstr ""
+
+#: admin/metabox/page.php:28
+msgid ""
+"You can select a header slider if you have installed and activated "
+"Revolution Slider which comes bundled with your theme."
+msgstr ""
+
+#: admin/metabox/page.php:42
+msgid "Master Header Slider"
+msgstr ""
+
+#: admin/metabox/page.php:43
+msgid ""
+"You can select a header slider if you have installed and activated Master "
+"Slider which comes bundled with your theme."
+msgstr ""
+
+#: admin/metabox/page.php:59
+msgid "Use Footer Slider"
+msgstr ""
+
+#: admin/metabox/page.php:60
+msgid "You can use footer slider with header slider too."
+msgstr ""
+
+#: admin/metabox/page.php:67
+msgid "Footer Slider"
+msgstr ""
+
+#: admin/metabox/page.php:76
+msgid "Revolution Footer Slider"
+msgstr ""
+
+#: admin/metabox/page.php:77
+msgid ""
+"You can select a footer slider if you have installed and activated "
+"Revolution Slider which comes bundled with your theme."
+msgstr ""
+
+#: admin/metabox/page.php:91
+msgid "Master Footer Slider"
+msgstr ""
+
+#: admin/metabox/page.php:92
+msgid ""
+"You can select a footer slider if you have installed and activated Master "
+"Slider which comes bundled with your theme."
+msgstr ""
+
+#: admin/metabox/page.php:108 admin/option/option.php:1256
+msgid "Disable Loading Screen"
+msgstr ""
+
+#: admin/metabox/page.php:109
+msgid ""
+"Check this option to disable page transition / loading screen for this page."
+msgstr ""
+
+#: admin/metabox/page.php:114
+msgid "Footer Bars Visiblity"
+msgstr ""
+
+#: admin/metabox/page.php:115
+msgid "By this option you can hide footer bars as you wish."
+msgstr ""
+
+#: admin/metabox/page.php:119
+msgid "All Visible"
+msgstr ""
+
+#: admin/metabox/page.php:123
+msgid "Hide Widget Bar"
+msgstr ""
+
+#: admin/metabox/page.php:127
+msgid "Hide Widget Bar and Footer"
+msgstr ""
+
+#: admin/metabox/page.php:140
+msgid "Hide Page Title"
+msgstr ""
+
+#: admin/metabox/page.php:141
+msgid "Page title will not be shown on the page."
+msgstr ""
+
+#: admin/metabox/page.php:147
+msgid "No content top padding"
+msgstr ""
+
+#: admin/metabox/page.php:148
+msgid ""
+"Check this option to disable the padding top of your content (after page "
+"title)."
+msgstr ""
+
+#: admin/metabox/page.php:153
+msgid "Custom Header/Title"
+msgstr ""
+
+#: admin/metabox/page.php:154
+msgid "There are several options to help you customize your page header."
+msgstr ""
+
+#: admin/metabox/page.php:161
+msgid "Custom Header/Title Options"
+msgstr ""
+
+#: admin/metabox/page.php:170
+msgid "Title Position"
+msgstr ""
+
+#: admin/metabox/page.php:174 admin/metabox/page.php:233
+#: admin/metabox/page.php:263 admin/option/option.php:852
+#: functions/vc_extend.php:65
+msgid "Left"
+msgstr ""
+
+#: admin/metabox/page.php:178 admin/metabox/page.php:237
+#: admin/metabox/page.php:267 admin/option/option.php:856
+#: functions/vc_extend.php:66
+msgid "Right"
+msgstr ""
+
+#: admin/metabox/page.php:182 admin/metabox/page.php:241
+#: admin/metabox/page.php:271
+msgid "Center"
+msgstr ""
+
+#: admin/metabox/page.php:192
+msgid "Page Title"
+msgstr ""
+
+#: admin/metabox/page.php:197
+msgid "Title Color"
+msgstr ""
+
+#: admin/metabox/page.php:204
+msgid "Sub Title"
+msgstr ""
+
+#: admin/metabox/page.php:209
+msgid "Sub Title Color"
+msgstr ""
+
+#: admin/metabox/page.php:216
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/metabox/page.php:223
+msgid "Header Image"
+msgstr ""
+
+#: admin/metabox/page.php:224
+msgid ""
+"Please use images like 1600px, 2000px wide and have a minimum height like "
+"475px for good results."
+msgstr ""
+
+#: admin/metabox/page.php:229
+msgid "Background X-Position"
+msgstr ""
+
+#: admin/metabox/page.php:245 admin/metabox/page.php:275
+#: functions/vc_extend.php:67
+msgid "Top"
+msgstr ""
+
+#: admin/metabox/page.php:249 admin/metabox/page.php:279
+#: functions/vc_extend.php:68
+msgid "Bottom"
+msgstr ""
+
+#: admin/metabox/page.php:259
+msgid "Background Y-Position"
+msgstr ""
+
+#: admin/metabox/page.php:289
+msgid "Header Height"
+msgstr ""
+
+#: admin/metabox/page.php:290
+msgid ""
+"Height of your header in pixels? Don't include \"px\" in the string. e.g. 400"
+msgstr ""
+
+#: admin/metabox/page.php:299
+msgid "Hide Page Content"
+msgstr ""
+
+#: admin/metabox/page.php:300
+msgid ""
+"Page content will not be shown. Supposed to use with Video backgrounds or "
+"Fullscreen sliders."
+msgstr ""
+
+#: admin/metabox/page.php:305
+msgid "Use Custom Sidebar"
+msgstr ""
+
+#: admin/metabox/page.php:306
+msgid "You can use custom sidebar individually."
+msgstr ""
+
+#: admin/metabox/page.php:313
+msgid "Custom Sidebar"
+msgstr ""
+
+#: admin/metabox/page.php:322
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/metabox/page.php:323 admin/option/option.php:1010
+#: admin/option/option.php:1087 admin/option/option.php:1178
+msgid "Select one of available header type."
+msgstr ""
+
+#: admin/metabox/page.php:328 admin/option/option.php:1015
+#: admin/option/option.php:1092 admin/option/option.php:1183
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/metabox/page.php:333 admin/option/option.php:1020
+#: admin/option/option.php:1097 admin/option/option.php:1188
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/metabox/page.php:338 admin/option/option.php:1025
+#: admin/option/option.php:1102 admin/option/option.php:1193
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/metabox/page.php:347
+msgid "Sidebar"
+msgstr ""
+
+#: admin/metabox/page.php:362
+msgid "Use Custom Style"
+msgstr ""
+
+#: admin/metabox/page.php:363
+msgid "Options to customize your page individually."
+msgstr ""
+
+#: admin/metabox/page.php:370
+msgid "Layout Styling"
+msgstr ""
+
+#: admin/metabox/page.php:379 admin/metabox/page.php:533
+#: admin/option/option.php:1464 admin/option/option.php:1506
+#: admin/option/option.php:1548 admin/option/option.php:1589
+#: admin/shortcode_generator/shortcodes1.php:434
+#: include/admin-menu-style-editor.php:31
+msgid "Background Color"
+msgstr ""
+
+#: admin/metabox/page.php:380
+msgid "This option will affect, main wrapper's background color."
+msgstr ""
+
+#: admin/metabox/page.php:387
+msgid "Transparent Content Background"
+msgstr ""
+
+#: admin/metabox/page.php:388
+msgid "If you want, you can use transparent background for your content."
+msgstr ""
+
+#: admin/metabox/page.php:396
+msgid "Use Custom Background"
+msgstr ""
+
+#: admin/metabox/page.php:397
+msgid "Lots of options to customize your page background individually."
+msgstr ""
+
+#: admin/metabox/page.php:403 admin/option/option.php:1584
+msgid "Background Styling"
+msgstr ""
+
+#: admin/metabox/page.php:412 admin/option/option.php:1597
+msgid "Custom Background Image"
+msgstr ""
+
+#: admin/metabox/page.php:413 admin/option/option.php:1500
+#: admin/option/option.php:1598
+msgid "Upload or choose custom page background image."
+msgstr ""
+
+#: admin/metabox/page.php:418 admin/option/option.php:1603
+#: admin/shortcode_generator/shortcodes1.php:349
+msgid "Background Image Size"
+msgstr ""
+
+#: admin/metabox/page.php:419 admin/option/option.php:1604
+msgid "Only available on browsers which supports CSS3."
+msgstr ""
+
+#: admin/metabox/page.php:423 admin/metabox/page.php:513
+#: admin/option/option.php:1608 admin/option/option.php:1656
+msgid "-not set-"
+msgstr ""
+
+#: admin/metabox/page.php:427 admin/option/option.php:1612
+msgid "cover"
+msgstr ""
+
+#: admin/metabox/page.php:431 admin/option/option.php:1616
+msgid "contain"
+msgstr ""
+
+#: admin/metabox/page.php:440
+msgid "Background Position X"
+msgstr ""
+
+#: admin/metabox/page.php:444
+msgid "left"
+msgstr ""
+
+#: admin/metabox/page.php:448 admin/metabox/page.php:468
+msgid "center"
+msgstr ""
+
+#: admin/metabox/page.php:452
+msgid "right"
+msgstr ""
+
+#: admin/metabox/page.php:460
+msgid "Background Position Y"
+msgstr ""
+
+#: admin/metabox/page.php:464
+msgid "top"
+msgstr ""
+
+#: admin/metabox/page.php:472
+msgid "bottom"
+msgstr ""
+
+#: admin/metabox/page.php:481 admin/option/option.php:1624
+#: admin/shortcode_generator/shortcodes1.php:268
+msgid "Background Image Repeat"
+msgstr ""
+
+#: admin/metabox/page.php:485 admin/option/option.php:1628
+msgid "inherit"
+msgstr ""
+
+#: admin/metabox/page.php:489 admin/option/option.php:1632
+msgid "no-repeat"
+msgstr ""
+
+#: admin/metabox/page.php:493 admin/option/option.php:1636
+msgid "repeat"
+msgstr ""
+
+#: admin/metabox/page.php:497 admin/option/option.php:1640
+msgid "repeat-x"
+msgstr ""
+
+#: admin/metabox/page.php:501 admin/option/option.php:1644
+msgid "repeat-y"
+msgstr ""
+
+#: admin/metabox/page.php:509 admin/option/option.php:1652
+#: admin/shortcode_generator/shortcodes1.php:287
+msgid "Background Image Attachment"
+msgstr ""
+
+#: admin/metabox/page.php:517 admin/option/option.php:1660
+msgid "fixed"
+msgstr ""
+
+#: admin/metabox/page.php:521 admin/option/option.php:1664
+msgid "scroll"
+msgstr ""
+
+#: admin/metabox/page.php:525 admin/option/option.php:1668
+msgid "local"
+msgstr ""
+
+#: admin/metabox/page.php:534 admin/option/option.php:1590
+msgid "This option will affect only page background."
+msgstr ""
+
+#: admin/metabox/page.php:541
+msgid "Use Google Map"
+msgstr ""
+
+#: admin/metabox/page.php:542
+msgid ""
+"Instead of using a static background, you can use a Google Map as background."
+msgstr ""
+
+#: admin/metabox/page.php:548
+msgid "Google Map"
+msgstr ""
+
+#: admin/metabox/page.php:557
+msgid "iFrame Src"
+msgstr ""
+
+#: admin/metabox/page.php:558
+msgid "Enter src attribute of your Google Map iFrame."
+msgstr ""
+
+#: admin/metabox/page.php:565
+msgid "Use Background Slider"
+msgstr ""
+
+#: admin/metabox/page.php:566
+msgid ""
+"Instead of using a static background, you can use background image slider."
+msgstr ""
+
+#: admin/metabox/page.php:573 admin/metabox/page.php:582
+msgid "Slider Image"
+msgstr ""
+
+#: admin/metabox/page.php:583
+msgid "Upload or choose custom background image."
+msgstr ""
+
+#: admin/metabox/page.php:590
+msgid "Use Self Hosted Video"
+msgstr ""
+
+#: admin/metabox/page.php:591
+msgid "Instead of using a static background, you can use self hosted video."
+msgstr ""
+
+#: admin/metabox/page.php:598
+msgid "Self Hosted Video"
+msgstr ""
+
+#: admin/metabox/page.php:607 admin/metabox/page.php:650
+#: admin/metabox/page.php:681
+msgid "Poster Image"
+msgstr ""
+
+#: admin/metabox/page.php:608 admin/metabox/page.php:651
+#: admin/metabox/page.php:682
+msgid "Upload or choose a poster image."
+msgstr ""
+
+#: admin/metabox/page.php:613 functions/vc_extend.php:119
+msgid "MP4 File"
+msgstr ""
+
+#: admin/metabox/page.php:614
+msgid "Upload or choose a MP4 file."
+msgstr ""
+
+#: admin/metabox/page.php:619 functions/vc_extend.php:128
+msgid "WEBM File"
+msgstr ""
+
+#: admin/metabox/page.php:620
+msgid "Upload or choose a WEBM file."
+msgstr ""
+
+#: admin/metabox/page.php:625 functions/vc_extend.php:137
+msgid "OGV File"
+msgstr ""
+
+#: admin/metabox/page.php:626
+msgid "Upload or choose an OGV file."
+msgstr ""
+
+#: admin/metabox/page.php:633
+msgid "Use YouTube Video"
+msgstr ""
+
+#: admin/metabox/page.php:634
+msgid "Instead of using a static background, you can use YouTube video."
+msgstr ""
+
+#: admin/metabox/page.php:641
+msgid "YouTube Video"
+msgstr ""
+
+#: admin/metabox/page.php:656
+msgid "YouTube Video ID"
+msgstr ""
+
+#: admin/metabox/page.php:657
+msgid ""
+"Enter YouTube video ID. http://www.youtube.com/watch?v=<span style=\"color:"
+"red;\">mYKA-VokOtA</span> text marked with red is the ID you have to be "
+"looking for."
+msgstr ""
+
+#: admin/metabox/page.php:664
+msgid "Use Vimeo Video"
+msgstr ""
+
+#: admin/metabox/page.php:665
+msgid "Instead of using a static background, you can use Vimeo video."
+msgstr ""
+
+#: admin/metabox/page.php:672
+msgid "Vimeo Video"
+msgstr ""
+
+#: admin/metabox/page.php:687
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: admin/metabox/page.php:688
+msgid ""
+"Enter Vimeo video ID. http://vimeo.com/<span style=\"color:red;\">71964690</"
+"span> text marked with red is the ID you have to be looking for."
+msgstr ""
+
+#: admin/metabox/page.php:697 admin/option/option.php:961
+msgid "Default Page Model"
+msgstr ""
+
+#: admin/metabox/page.php:701
+msgid "Use From Theme Options"
+msgstr ""
+
+#: admin/metabox/page.php:705 admin/option/option.php:965
+msgid "Boxed"
+msgstr ""
+
+#: admin/metabox/page.php:709 admin/option/option.php:969
+msgid "Full"
+msgstr ""
+
+#: admin/metabox/page_blog_options.php:6
+msgid "Blog Options"
+msgstr ""
+
+#: admin/metabox/page_blog_options.php:12
+msgid "Post Options"
+msgstr ""
+
+#: admin/metabox/page_blog_options.php:13
+msgid ""
+"Below this point all the options are only works with blog page template "
+"types."
+msgstr ""
+
+#: admin/metabox/page_blog_options.php:19
+msgid "Display Items From Categories"
+msgstr ""
+
+#: admin/metabox/page_blog_options.php:20
+msgid ""
+"If you select \"All\" select, all the Blog items will be displayed. When "
+"another category is selected, only the Blog items that belong to this "
+"category or this category's subcategories will be displayed. By this way, "
+"you can create multiple blog pages with different items."
+msgstr ""
+
+#: admin/metabox/page_blog_options.php:34
+msgid "Item Order"
+msgstr ""
+
+#: admin/metabox/page_blog_options.php:35
+msgid ""
+"By selecting \"Custom Order ...\" you will have to set the order field of "
+"each of the items."
+msgstr ""
+
+#: admin/option/option.php:6 admin/option/option.php:19
+msgid "Footer Text"
+msgstr ""
+
+#: admin/option/option.php:7
+msgid "&copy; "
+msgstr ""
+
+#: admin/option/option.php:30 admin/option/option.php:908
+#: admin/option/option.php:1393
+msgid "Top Info Bar"
+msgstr ""
+
+#: admin/option/option.php:36
+msgid "Is Active?"
+msgstr ""
+
+#: admin/option/option.php:47
+msgid "Info Line #"
+msgstr ""
+
+#: admin/option/option.php:57
+msgid "Caption"
+msgstr ""
+
+#: admin/option/option.php:58
+msgid "Italia Office"
+msgstr ""
+
+#: admin/option/option.php:63 admin/option/option.php:75
+#: admin/option/option.php:87 functions/vc_extend.php:173
+msgid "Icon"
+msgstr ""
+
+#: admin/option/option.php:69 admin/option/option.php:81
+#: admin/option/option.php:93
+msgid "Title"
+msgstr ""
+
+#: admin/option/option.php:70
+msgid "via G. Cesare 87/A 47838 Riccione (RN) Italia"
+msgstr ""
+
+#: admin/option/option.php:82
+msgid "Mon - Sat 8.00 - 18.00. Sunday CLOSED"
+msgstr ""
+
+#: admin/option/option.php:94
+msgid "+39 0541 647087"
+msgstr ""
+
+#: admin/option/option.php:103
+msgid "LOGISTIC Option Panel"
+msgstr ""
+
+#: admin/option/option.php:107
+msgid "General Options"
+msgstr ""
+
+#: admin/option/option.php:113 admin/option/option.php:1844
+msgid "General"
+msgstr ""
+
+#: admin/option/option.php:118
+msgid "Back To Top Button"
+msgstr ""
+
+#: admin/option/option.php:119
+msgid "Enable / Disable Back To Top Button globally."
+msgstr ""
+
+#: admin/option/option.php:125
+msgid "Favicon"
+msgstr ""
+
+#: admin/option/option.php:126
+msgid "Upload a 16px x 16px .png or .gif image, will be set as your favicon."
+msgstr ""
+
+#: admin/option/option.php:132
+msgid "Apple Touch Icon (small)"
+msgstr ""
+
+#: admin/option/option.php:133
+msgid ""
+"Upload a 57px x 57px .png image, will be set as your small Apple Touch Icon."
+msgstr ""
+
+#: admin/option/option.php:138
+msgid "Apple Touch Icon (medium)"
+msgstr ""
+
+#: admin/option/option.php:139
+msgid ""
+"Upload a 76px x 76px .png image, will be set as your large Apple Touch Icon "
+"(iPad)."
+msgstr ""
+
+#: admin/option/option.php:144 admin/option/option.php:150
+msgid "Apple Touch Icon (large)"
+msgstr ""
+
+#: admin/option/option.php:145
+msgid ""
+"Upload a 120px x 120px .png image, will be set as your large Apple Touch "
+"Icon (iPhone Retina)."
+msgstr ""
+
+#: admin/option/option.php:151
+msgid ""
+"Upload a 152px x 152px .png image, will be set as your large Apple Touch "
+"Icon (iPad Retina)."
+msgstr ""
+
+#: admin/option/option.php:157
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/option/option.php:158
+msgid ""
+"Write your custom css here. <strong>Please do not add \"style\" tags.</"
+"strong>"
+msgstr ""
+
+#: admin/option/option.php:165
+msgid "Custom JS"
+msgstr ""
+
+#: admin/option/option.php:166
+msgid ""
+"Write your custom js here. Please do not add script tags into this box. "
+"<strong>Please do not add \"script\" tags.</strong>"
+msgstr ""
+
+#: admin/option/option.php:177
+msgid "Typography"
+msgstr ""
+
+#: admin/option/option.php:183
+msgid "Extended Parameters"
+msgstr ""
+
+#: admin/option/option.php:195
+msgid "Content Typography"
+msgstr ""
+
+#: admin/option/option.php:208 admin/option/option.php:285
+#: admin/option/option.php:728
+msgid "Font Face"
+msgstr ""
+
+#: admin/option/option.php:254 admin/option/option.php:776
+msgid "Font Size (px)"
+msgstr ""
+
+#: admin/option/option.php:262 admin/option/option.php:784
+msgid "Line Height (em)"
+msgstr ""
+
+#: admin/option/option.php:272
+msgid "Heading Typography"
+msgstr ""
+
+#: admin/option/option.php:300
+msgid "H1 Options"
+msgstr ""
+
+#: admin/option/option.php:305
+msgid "H1 Size (px)"
+msgstr ""
+
+#: admin/option/option.php:313
+msgid "H1 Font Style"
+msgstr ""
+
+#: admin/option/option.php:330
+msgid "H1 Weight"
+msgstr ""
+
+#: admin/option/option.php:346
+msgid "H1 Line Height (em)"
+msgstr ""
+
+#: admin/option/option.php:355
+msgid "H1 Letter Spacing"
+msgstr ""
+
+#: admin/option/option.php:370
+msgid "H2 Options"
+msgstr ""
+
+#: admin/option/option.php:375
+msgid "H2 Size (px)"
+msgstr ""
+
+#: admin/option/option.php:383
+msgid "H2 Font Style"
+msgstr ""
+
+#: admin/option/option.php:400
+msgid "H2 Weight"
+msgstr ""
+
+#: admin/option/option.php:416
+msgid "H2 Line Height (em)"
+msgstr ""
+
+#: admin/option/option.php:425
+msgid "H2 Letter Spacing"
+msgstr ""
+
+#: admin/option/option.php:440
+msgid "H3 Options"
+msgstr ""
+
+#: admin/option/option.php:445
+msgid "H3 Size (px)"
+msgstr ""
+
+#: admin/option/option.php:453
+msgid "H3 Font Style"
+msgstr ""
+
+#: admin/option/option.php:470
+msgid "H3 Weight"
+msgstr ""
+
+#: admin/option/option.php:486
+msgid "H3 Line Height (em)"
+msgstr ""
+
+#: admin/option/option.php:495
+msgid "H3 Letter Spacing"
+msgstr ""
+
+#: admin/option/option.php:510
+msgid "H4 Options"
+msgstr ""
+
+#: admin/option/option.php:515
+msgid "H4 Size (px)"
+msgstr ""
+
+#: admin/option/option.php:523
+msgid "H4 Font Style"
+msgstr ""
+
+#: admin/option/option.php:540
+msgid "H4 Weight"
+msgstr ""
+
+#: admin/option/option.php:556
+msgid "H4 Line Height (em)"
+msgstr ""
+
+#: admin/option/option.php:565
+msgid "H4 Letter Spacing"
+msgstr ""
+
+#: admin/option/option.php:580
+msgid "H5 Options"
+msgstr ""
+
+#: admin/option/option.php:585
+msgid "H5 Size (px)"
+msgstr ""
+
+#: admin/option/option.php:593
+msgid "H5 Font Style"
+msgstr ""
+
+#: admin/option/option.php:610
+msgid "H5 Weight"
+msgstr ""
+
+#: admin/option/option.php:626
+msgid "H5 Line Height (em)"
+msgstr ""
+
+#: admin/option/option.php:635
+msgid "H5 Letter Spacing"
+msgstr ""
+
+#: admin/option/option.php:650
+msgid "H6 Options"
+msgstr ""
+
+#: admin/option/option.php:655
+msgid "H6 Size (px)"
+msgstr ""
+
+#: admin/option/option.php:663
+msgid "H6 Font Style"
+msgstr ""
+
+#: admin/option/option.php:680
+msgid "H6 Weight"
+msgstr ""
+
+#: admin/option/option.php:696
+msgid "H6 Line Height (em)"
+msgstr ""
+
+#: admin/option/option.php:705
+msgid "H6 Letter Spacing"
+msgstr ""
+
+#: admin/option/option.php:722
+msgid "Primary Menu Typography"
+msgstr ""
+
+#: admin/option/option.php:798
+msgid "Layout"
+msgstr ""
+
+#: admin/option/option.php:803
+msgid "Primary Menu / Logo"
+msgstr ""
+
+#: admin/option/option.php:809 admin/option/option.php:1436
+msgid "Primary Menu"
+msgstr ""
+
+#: admin/option/option.php:815
+msgid "Sticky Menu"
+msgstr ""
+
+#: admin/option/option.php:821
+msgid "Menu / Logo Height"
+msgstr ""
+
+#: admin/option/option.php:822
+msgid ""
+"Set this value to fit at least same as your logo height for perfect results"
+msgstr ""
+
+#: admin/option/option.php:830
+msgid "Search Button / Box"
+msgstr ""
+
+#: admin/option/option.php:834
+msgid "On"
+msgstr ""
+
+#: admin/option/option.php:838
+msgid "Off"
+msgstr ""
+
+#: admin/option/option.php:848
+msgid "Menu Align"
+msgstr ""
+
+#: admin/option/option.php:868
+msgid "Logo"
+msgstr ""
+
+#: admin/option/option.php:870
+msgid ""
+"You can use custom image logo for your site. To use this option, first "
+"activate 'Use Custom Logo' switch"
+msgstr ""
+
+#: admin/option/option.php:875
+msgid "Use Custom Logo"
+msgstr ""
+
+#: admin/option/option.php:877
+msgid "Use custom logo or text logo"
+msgstr ""
+
+#: admin/option/option.php:882
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/option/option.php:888
+msgid "Upload or choose custom logo"
+msgstr ""
+
+#: admin/option/option.php:893
+msgid "Custom Logo Retina"
+msgstr ""
+
+#: admin/option/option.php:899
+msgid "Upload or choose custom 2x bigger logo"
+msgstr ""
+
+#: admin/option/option.php:915 admin/option/option.php:1493
+msgid "Footer"
+msgstr ""
+
+#: admin/option/option.php:921 admin/option/option.php:927
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/option/option.php:933
+msgid "Footer Height"
+msgstr ""
+
+#: admin/option/option.php:934
+msgid ""
+"Select height of your footer. Minimum value set to 30 and maximum set to "
+"360. Will be processed in pixels."
+msgstr ""
+
+#: admin/option/option.php:948
+msgid "Content / Page / Post"
+msgstr ""
+
+#: admin/option/option.php:954
+msgid "Page Position / Layout"
+msgstr ""
+
+#: admin/option/option.php:956
+msgid "Select position for your page content"
+msgstr ""
+
+#: admin/option/option.php:980 admin/option/option.php:987
+msgid "Custom 404 Page"
+msgstr ""
+
+#: admin/option/option.php:982
+msgid "Select a page to use as your custom 404 (not found) page"
+msgstr ""
+
+#: admin/option/option.php:988
+msgid "Select a page to use as custom 4040 page."
+msgstr ""
+
+#: admin/option/option.php:1002
+msgid "Page"
+msgstr ""
+
+#: admin/option/option.php:1004
+msgid "Select position for your page sidebar"
+msgstr ""
+
+#: admin/option/option.php:1009 admin/option/option.php:1177
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: admin/option/option.php:1036 admin/option/option.php:1113
+#: admin/option/option.php:1204
+msgid "Default Sidebar"
+msgstr ""
+
+#: admin/option/option.php:1037 admin/option/option.php:1114
+#: admin/option/option.php:1205
+msgid "This option could be overriden individually."
+msgstr ""
+
+#: admin/option/option.php:1050 admin/option/option.php:1127
+msgid "Comments Section"
+msgstr ""
+
+#: admin/option/option.php:1051
+msgid "Enable / Disable comment section on the pages"
+msgstr ""
+
+#: admin/option/option.php:1057 admin/option/option.php:1134
+msgid "Author Section"
+msgstr ""
+
+#: admin/option/option.php:1058
+msgid "Enable / Disable author section on the pages"
+msgstr ""
+
+#: admin/option/option.php:1064
+msgid "Show Comments Closed Message"
+msgstr ""
+
+#: admin/option/option.php:1065
+msgid ""
+"Whenever comments closed on a page or post a message appears, you can hide "
+"it."
+msgstr ""
+
+#: admin/option/option.php:1071 admin/option/option.php:1141
+msgid "Share Buttons"
+msgstr ""
+
+#: admin/option/option.php:1072
+msgid "Enable / Disable share buttons for pages."
+msgstr ""
+
+#: admin/option/option.php:1079 include/header.php:43
+msgid "Blog"
+msgstr ""
+
+#: admin/option/option.php:1081
+msgid "Select position for your blog page sidebar"
+msgstr ""
+
+#: admin/option/option.php:1086
+msgid "Defaul Sidebar Position"
+msgstr ""
+
+#: admin/option/option.php:1128
+msgid "Enable / Disable comment section on the blog posts"
+msgstr ""
+
+#: admin/option/option.php:1135
+msgid "Enable / Disable author section on the blog posts"
+msgstr ""
+
+#: admin/option/option.php:1142
+msgid "Enable / Disable share buttons for posts."
+msgstr ""
+
+#: admin/option/option.php:1148 include/blog-related-posts-navigation.php:18
+msgid "Related Posts"
+msgstr ""
+
+#: admin/option/option.php:1149
+msgid "Enable / Disable related posts."
+msgstr ""
+
+#: admin/option/option.php:1155
+msgid "Default Listing Page"
+msgstr ""
+
+#: admin/option/option.php:1156
+msgid "Select a page to use as \"Return to Blog\" link."
+msgstr ""
+
+#: admin/option/option.php:1170
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/option/option.php:1172
+msgid "Select position for your WooCommerce page sidebar"
+msgstr ""
+
+#: admin/option/option.php:1222
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/option/option.php:1228
+msgid "Fancy Box (Lightbox)"
+msgstr ""
+
+#: admin/option/option.php:1234
+msgid "Video Support"
+msgstr ""
+
+#: admin/option/option.php:1235
+msgid ""
+"By enabling this option Fancybox will start to support popular media links."
+msgstr ""
+
+#: admin/option/option.php:1241
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/option/option.php:1242
+msgid "Enable this option to show thumnails under your Fancybox window."
+msgstr ""
+
+#: admin/option/option.php:1250
+msgid "Global Loading Screen"
+msgstr ""
+
+#: admin/option/option.php:1257
+msgid "Loading screen and page transition on this page will be disable."
+msgstr ""
+
+#: admin/option/option.php:1265
+msgid "Countdown Page"
+msgstr ""
+
+#: admin/option/option.php:1271
+msgid "Countdown Page Options"
+msgstr ""
+
+#: admin/option/option.php:1277
+msgid "End Year"
+msgstr ""
+
+#: admin/option/option.php:1278
+msgid "Enter the Year of the date counter will count to."
+msgstr ""
+
+#: admin/option/option.php:1284
+msgid "End Month"
+msgstr ""
+
+#: admin/option/option.php:1285
+msgid "Enter the Month of the date counter will count to."
+msgstr ""
+
+#: admin/option/option.php:1291
+msgid "End Day"
+msgstr ""
+
+#: admin/option/option.php:1292
+msgid "Enter the Day of the date counter will count to."
+msgstr ""
+
+#: admin/option/option.php:1298
+msgid "End Hour"
+msgstr ""
+
+#: admin/option/option.php:1299
+msgid "Enter the Hour of the date counter will count to."
+msgstr ""
+
+#: admin/option/option.php:1305
+msgid "End Minute"
+msgstr ""
+
+#: admin/option/option.php:1306
+msgid "Enter the Minute of the date counter will count to."
+msgstr ""
+
+#: admin/option/option.php:1312
+msgid "End Second"
+msgstr ""
+
+#: admin/option/option.php:1313
+msgid "Enter the Second of the date counter will count to."
+msgstr ""
+
+#: admin/option/option.php:1325
+msgid "Color Options"
+msgstr ""
+
+#: admin/option/option.php:1331
+msgid "GENERIC"
+msgstr ""
+
+#: admin/option/option.php:1336
+msgid "Content Background"
+msgstr ""
+
+#: admin/option/option.php:1343
+msgid "Content Color"
+msgstr ""
+
+#: admin/option/option.php:1344
+msgid "Font color of the content"
+msgstr ""
+
+#: admin/option/option.php:1351
+msgid "Alternate Color #1"
+msgstr ""
+
+#: admin/option/option.php:1352
+msgid "Like link color, hover color and input elements active border"
+msgstr ""
+
+#: admin/option/option.php:1359
+msgid "Alternate Color #2"
+msgstr ""
+
+#: admin/option/option.php:1360
+msgid "Like footer, footer sidebar title color, text color and seperator color"
+msgstr ""
+
+#: admin/option/option.php:1367
+msgid "Alternate Color #3"
+msgstr ""
+
+#: admin/option/option.php:1368
+msgid "Like footer sidebar link color"
+msgstr ""
+
+#: admin/option/option.php:1375
+msgid "Alternate Background Color"
+msgstr ""
+
+#: admin/option/option.php:1376
+msgid "Like comments background color"
+msgstr ""
+
+#: admin/option/option.php:1383
+msgid "Separator / Border Color"
+msgstr ""
+
+#: admin/option/option.php:1384
+msgid "Used for, Primary menu, in page Seperators and Comments bottom border"
+msgstr ""
+
+#: admin/option/option.php:1399 admin/option/option.php:1450
+#: admin/option/option.php:1541 functions/vc_extend.php:42
+msgid "Font Color"
+msgstr ""
+
+#: admin/option/option.php:1406
+msgid "Background Color Start"
+msgstr ""
+
+#: admin/option/option.php:1413
+msgid "Background Color End"
+msgstr ""
+
+#: admin/option/option.php:1420
+msgid "Switcher"
+msgstr ""
+
+#: admin/option/option.php:1427
+msgid "Switcher Hover"
+msgstr ""
+
+#: admin/option/option.php:1442
+msgid "Text Logo Color"
+msgstr ""
+
+#: admin/option/option.php:1457
+msgid "Font Color : Hover / Active"
+msgstr ""
+
+#: admin/option/option.php:1471
+msgid "Background Color : Hover / Active"
+msgstr ""
+
+#: admin/option/option.php:1485 admin/option/option.php:1527
+msgid "Separator Color"
+msgstr ""
+
+#: admin/option/option.php:1499
+msgid "Background Image"
+msgstr ""
+
+#: admin/option/option.php:1513 include/admin-menu-style-editor.php:38
+msgid "Foreground Color"
+msgstr ""
+
+#: admin/option/option.php:1520
+msgid "Alternate Color"
+msgstr ""
+
+#: admin/option/option.php:1535
+msgid "Form"
+msgstr ""
+
+#: admin/option/option.php:1555
+msgid "Font Color (Button)"
+msgstr ""
+
+#: admin/option/option.php:1562
+msgid "Font Color : Hover / Active (Button)"
+msgstr ""
+
+#: admin/option/option.php:1569
+msgid "Background Color (Button)"
+msgstr ""
+
+#: admin/option/option.php:1576
+msgid "Background Color : Hover / Active (Button)"
+msgstr ""
+
+#: admin/option/option.php:1680
+msgid "Social"
+msgstr ""
+
+#: admin/option/option.php:1685
+msgid "Accounts"
+msgstr ""
+
+#: admin/option/option.php:1691
+msgid "Social Accounts"
+msgstr ""
+
+#: admin/option/option.php:1692
+msgid "Enter social account names/IDs box below"
+msgstr ""
+
+#: admin/option/option.php:1697
+msgid "500px"
+msgstr ""
+
+#: admin/option/option.php:1702
+msgid "Behance"
+msgstr ""
+
+#: admin/option/option.php:1707
+msgid "Blogger"
+msgstr ""
+
+#: admin/option/option.php:1712
+msgid "Delicious"
+msgstr ""
+
+#: admin/option/option.php:1717
+msgid "DeviantArt"
+msgstr ""
+
+#: admin/option/option.php:1722
+msgid "Digg"
+msgstr ""
+
+#: admin/option/option.php:1727
+msgid "Dribble"
+msgstr ""
+
+#: admin/option/option.php:1732
+msgid "Email"
+msgstr ""
+
+#: admin/option/option.php:1738
+msgid "Facebook"
+msgstr ""
+
+#: admin/option/option.php:1744
+msgid "Flickr"
+msgstr ""
+
+#: admin/option/option.php:1749
+msgid "Forrst"
+msgstr ""
+
+#: admin/option/option.php:1754
+msgid "Foursquare"
+msgstr ""
+
+#: admin/option/option.php:1759
+msgid "Github"
+msgstr ""
+
+#: admin/option/option.php:1764
+msgid "Google+"
+msgstr ""
+
+#: admin/option/option.php:1769
+msgid "Instagram"
+msgstr ""
+
+#: admin/option/option.php:1775
+msgid "Last.FM"
+msgstr ""
+
+#: admin/option/option.php:1780
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/option/option.php:1786
+msgid "MySpace"
+msgstr ""
+
+#: admin/option/option.php:1791
+msgid "Pinterest"
+msgstr ""
+
+#: admin/option/option.php:1796
+msgid "RSS"
+msgstr ""
+
+#: admin/option/option.php:1801
+msgid "SoundCloud"
+msgstr ""
+
+#: admin/option/option.php:1806
+msgid "StumbleUpon"
+msgstr ""
+
+#: admin/option/option.php:1811
+msgid "Tumblr"
+msgstr ""
+
+#: admin/option/option.php:1816
+msgid "Twitter"
+msgstr ""
+
+#: admin/option/option.php:1822
+msgid "Vimeo"
+msgstr ""
+
+#: admin/option/option.php:1827
+msgid "WordPress"
+msgstr ""
+
+#: admin/option/option.php:1832
+msgid "Yahoo!"
+msgstr ""
+
+#: admin/option/option.php:1837
+msgid "Youtube"
+msgstr ""
+
+#: admin/option/option.php:1850
+msgid "Social Icons"
+msgstr ""
+
+#: admin/option/option.php:1855
+msgid "Social Share Buttons"
+msgstr ""
+
+#: admin/option/option.php:1856
+msgid "Enable / Disable social share buttons."
+msgstr ""
+
+#: admin/option/option.php:1863
+msgid "Icon List / Order"
+msgstr ""
+
+#: admin/option/option.php:1864
+msgid "Select visible icons and sort."
+msgstr ""
+
+#: admin/option/option.php:1878
+msgid "Target Window"
+msgstr ""
+
+#: admin/option/option.php:1879
+msgid "Where links will be opened?"
+msgstr ""
+
+#: admin/option/option.php:1883
+msgid "Blank Window / New Tab"
+msgstr ""
+
+#: admin/option/option.php:1887
+msgid "Self Window"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:15
+#: admin/shortcode_generator/shortcodes1.php:544
+msgid "WP Visual Editor"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:23
+msgid "Radio Button"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:42
+msgid "Checkbox"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:62
+msgid "Select"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:81
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:86
+msgid "Multiselect"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:106 functions/vc_extend.php:188
+msgid "Color"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:112
+msgid "Sorter"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:132
+msgid "Slider"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:140
+msgid "Upload"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:145
+msgid "Date"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:150
+msgid "Textarea"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:156
+msgid "Check Image"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:160
+#: admin/shortcode_generator/shortcodes1.php:188
+msgid "Label 1"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:165
+#: admin/shortcode_generator/shortcodes1.php:193
+msgid "Label 2"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:170
+#: admin/shortcode_generator/shortcodes1.php:198
+msgid "Label 3"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:175
+#: admin/shortcode_generator/shortcodes1.php:203
+msgid "Label 4"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:184
+msgid "Radio Image"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:212
+msgid "Code Editor"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:218
+msgid "Toggle"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:236
+#: admin/shortcode_generator/shortcodes1.php:397
+#: admin/shortcode_generator/shortcodes1.php:564
+msgid "Color Accent"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:263
+msgid "Background Image URL"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:306
+msgid "Background Image Position"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:370
+#: admin/shortcode_generator/shortcodes2.php:14
+msgid "Column"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:377
+#: admin/shortcode_generator/shortcodes2.php:28
+msgid "Offset"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:429
+msgid "Text Color"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:439
+msgid "Button Caption"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:444
+msgid "Button URL"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:449
+msgid "Target"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:468
+#: admin/shortcode_generator/shortcodes1.php:523
+#: admin/shortcode_generator/shortcodes1.php:534
+#: admin/shortcode_generator/shortcodes1.php:583
+msgid "Icon name"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:473
+#: admin/shortcode_generator/shortcodes1.php:504
+#: admin/shortcode_generator/shortcodes2.php:43 functions/vc_extend.php:92
+#: functions/vc_extend.php:198
+msgid "Size"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:538
+#: admin/shortcode_generator/shortcodes1.php:600
+#: admin/shortcode_generator/shortcodes1.php:621
+msgid "ID"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:605
+#: admin/shortcode_generator/shortcodes1.php:626
+#: admin/shortcode_generator/shortcodes1.php:647
+msgid "Width"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:610
+#: admin/shortcode_generator/shortcodes1.php:631
+#: admin/shortcode_generator/shortcodes1.php:652
+#: admin/shortcode_generator/shortcodes1.php:657
+msgid "Height"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:642
+msgid "URL"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:662
+msgid "Autoplay"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes1.php:667
+msgid "Show Comments"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes2.php:9
+msgid "Row"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes2.php:20
+msgid "Grid"
+msgstr ""
+
+#: admin/shortcode_generator/shortcodes2.php:37
+msgid "Inner Spacer"
+msgstr ""
+
+#: archive.php:106 author.php:124 category.php:106 include/header.php:94
+#: index.php:115 page-regular-blog.php:113 single.php:84 tag.php:106
+msgid "By "
+msgstr ""
+
+#: archive.php:108 author.php:126 category.php:108 include/header.php:96
+#: index.php:117 page-regular-blog.php:115 single.php:86 tag.php:108
+msgid " in "
+msgstr ""
+
+#: archive.php:110 author.php:128 category.php:110 include/header.php:98
+#: index.php:119 page-regular-blog.php:117 single.php:88 tag.php:110
+msgid "Posted "
+msgstr ""
+
+#: archive.php:111 author.php:129 category.php:111 include/header.php:99
+#: index.php:120 page-isotope-blog.php:84 page-regular-blog.php:118 page.php:34
+#: single.php:89 tag.php:111
+msgid " at "
+msgstr ""
+
+#: archive.php:131 author.php:149 category.php:131 index.php:140
+#: page-full-blog.php:133 page-isotope-blog.php:96 page-regular-blog.php:138
+#: tag.php:131
+msgid "There has been an error."
+msgstr ""
+
+#: archive.php:132 author.php:150 category.php:132 index.php:141
+#: page-full-blog.php:134 page-isotope-blog.php:97 page-regular-blog.php:139
+#: tag.php:132
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or use "
+"the search form below."
+msgstr ""
+
+#: author.php:31
+msgid "Recent Posts by "
+msgstr ""
+
+#: author.php:158
+msgid "Recent Comments by "
+msgstr ""
+
+#: author.php:166
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: author.php:168
+msgid "No comments by "
+msgstr ""
+
+#: comments.php:5
+msgid "Please do not load this page directly. Thanks and have a great day!"
+msgstr ""
+
+#: comments.php:16
+msgid "No comments"
+msgstr ""
+
+#: comments.php:16
+msgid "One comment"
+msgstr ""
+
+#: comments.php:16
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:48
+msgid "Our apologies, you must be "
+msgstr ""
+
+#: comments.php:48
+msgid "logged in"
+msgstr ""
+
+#: comments.php:48
+msgid " to post a comment."
+msgstr ""
+
+#: comments.php:53 comments.php:54
+msgid "Name"
+msgstr ""
+
+#: comments.php:58 comments.php:59
+msgid "Website"
+msgstr ""
+
+#: comments.php:63 comments.php:64
+msgid "Mail (will not be shared)"
+msgstr ""
+
+#: comments.php:71
+msgid "By submitting a comment you grant "
+msgstr ""
+
+#: comments.php:71
+msgid ""
+" a perpetual license to reproduce your words and name/web site in "
+"attribution. Inappropriate and irrelevant comments will be removed at an "
+"admin’s discretion. Your email is used for verification purposes only, it "
+"will never be shared."
+msgstr ""
+
+#: comments.php:74 comments.php:75
+msgid "Comment"
+msgstr ""
+
+#: comments.php:77
+msgid "Allowed HTML tags:"
+msgstr ""
+
+#: comments.php:83
+msgid "The comments are closed."
+msgstr ""
+
+#: framework/bootstrap.php:83 framework/classes/option.php:346
+#: framework/classes/option.php:371
+msgid "Successful"
+msgstr ""
+
+#: framework/bootstrap.php:94
+msgid "Unauthorized function"
+msgstr ""
+
+#: framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: framework/classes/metabox.php:564 framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: framework/classes/metabox.php:586 framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: framework/classes/option.php:47 framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: framework/classes/option.php:54
+msgid "Option Key is required"
+msgstr ""
+
+#: framework/classes/option.php:56
+msgid "Template Array/File is required"
+msgstr ""
+
+#: framework/classes/option.php:58
+msgid "Page Slug is required"
+msgstr ""
+
+#: framework/classes/option.php:160
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: framework/classes/option.php:288
+msgid "Can not be empty"
+msgstr ""
+
+#: framework/classes/option.php:313
+msgid "Invalid data"
+msgstr ""
+
+#: framework/classes/option.php:376
+msgid "Unverified Access."
+msgstr ""
+
+#: framework/classes/option.php:442
+msgid "Invalid template supplied"
+msgstr ""
+
+#: framework/classes/option.php:455
+msgid "Utility"
+msgstr ""
+
+#: framework/classes/option.php:461 framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: framework/classes/option.php:470
+msgid "Export/Import"
+msgstr ""
+
+#: framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: framework/classes/shortcodegenerator.php:259
+msgid "insert"
+msgstr ""
+
+#: framework/classes/shortcodegenerator.php:260
+msgid "cancel"
+msgstr ""
+
+#: framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: framework/views/option/impexp.php:4 framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: framework/views/option/impexp.php:27 framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone"
+msgstr ""
+
+#: framework/views/option/set.php:69 framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: framework/views/option/set.php:70 framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: framework/views/option/set.php:93
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework</a> powered by <a href=\"http://vafpress.com"
+"\">Vafpress</a>"
+msgstr ""
+
+#: functions.php:169 functions.php:170
+msgid "Theme Options"
+msgstr ""
+
+#: functions/classes/helper.php:843
+msgid "&larr; Previous Post"
+msgstr ""
+
+#: functions/classes/helper.php:845
+msgid "All Posts"
+msgstr ""
+
+#: functions/classes/helper.php:847
+msgid "Next Post &rarr;"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:399
+#: functions/classes/tgm-plugin-activation.php:3021
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2159
+msgid "Required"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2162
+msgid "Recommended"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2178
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2181
+msgid "External Source"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2184
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2201
+msgid "Not Installed"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2205
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2207
+msgid "Active"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2213
+msgid "Required Update not Available"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2216
+msgid "Requires Update"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2219
+msgid "Update recommended"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2371
+msgid "Installed version:"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2379
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2391
+msgid "Available version:"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2414
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2428
+msgid "Plugin"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2429
+msgid "Source"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2430
+msgid "Type"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2434
+msgid "Version"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2435
+msgid "Status"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2595
+msgid "Install"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2601
+msgid "Update"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2604
+msgid "Activate"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2635
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2637
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2673
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:2675
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3020
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3356
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3357
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3361
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3362
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3363
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3364
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3367
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3369
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/classes/tgm-plugin-activation.php:3370
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/functions.php:309
+msgid "Return to Top"
+msgstr ""
+
+#: functions/functions.php:320
+msgid "Attached"
+msgstr ""
+
+#: functions/functions.php:663 functions/functions.php:664
+msgid "Logistic Documentation"
+msgstr ""
+
+#: functions/functions.php:1340
+msgid "Search"
+msgstr ""
+
+#: functions/functions.php:1423
+msgid "Pages: "
+msgstr ""
+
+#: functions/menu-item-custom-fields/menu-item-custom-fields-megamenu.php:86
+msgid "Menu Item Options"
+msgstr ""
+
+#: functions/menu-item-custom-fields/menu-item-custom-fields-megamenu.php:88
+msgid "Edit Options"
+msgstr ""
+
+#: functions/menu-item-custom-fields/menu-item-custom-fields-megamenu.php:108
+msgid "Custom Menu Options"
+msgstr ""
+
+#: functions/vc_extend.php:8 functions/vc_extend.php:250
+msgid "Full Width?"
+msgstr ""
+
+#: functions/vc_extend.php:10
+msgid ""
+"If selected, your row will be stretched to limits of the parent container."
+msgstr ""
+
+#: functions/vc_extend.php:11 functions/vc_extend.php:19
+#: functions/vc_extend.php:27 functions/vc_extend.php:35
+msgid "Yes, please"
+msgstr ""
+
+#: functions/vc_extend.php:16
+msgid "Vertical Centered Content?"
+msgstr ""
+
+#: functions/vc_extend.php:18
+msgid ""
+"If selected, elements in the columns will be tried to aligned as verticaly "
+"centered."
+msgstr ""
+
+#: functions/vc_extend.php:24
+msgid "Full Height?"
+msgstr ""
+
+#: functions/vc_extend.php:26
+msgid ""
+"If selected, your row will be stretched to limits of the document. Useful to "
+"build single page sites."
+msgstr ""
+
+#: functions/vc_extend.php:32
+msgid "Zero Column Space?"
+msgstr ""
+
+#: functions/vc_extend.php:34
+msgid ""
+"If selected, your columns inside this row will have no horizontal space "
+"between themselves."
+msgstr ""
+
+#: functions/vc_extend.php:44
+msgid "Select font face color"
+msgstr ""
+
+#: functions/vc_extend.php:45 functions/vc_extend.php:56
+#: functions/vc_extend.php:71 functions/vc_extend.php:87
+#: functions/vc_extend.php:96 functions/vc_extend.php:105
+#: functions/vc_extend.php:114 functions/vc_extend.php:123
+#: functions/vc_extend.php:132 functions/vc_extend.php:141
+#: functions/vc_extend.php:150
+msgid "Custom Design Options"
+msgstr ""
+
+#: functions/vc_extend.php:52
+msgid "Parallax?"
+msgstr ""
+
+#: functions/vc_extend.php:54
+msgid "If selected, parallax effect will be applied on background image."
+msgstr ""
+
+#: functions/vc_extend.php:61
+msgid "Background Scroll"
+msgstr ""
+
+#: functions/vc_extend.php:64
+msgid " "
+msgstr ""
+
+#: functions/vc_extend.php:70
+msgid "Please do not use with other Background Options"
+msgstr ""
+
+#: functions/vc_extend.php:76
+msgid "Minimum Height"
+msgstr ""
+
+#: functions/vc_extend.php:78
+msgid "Set minimum height of your row in pixels. Not required"
+msgstr ""
+
+#: functions/vc_extend.php:83
+msgid "Background Slider"
+msgstr ""
+
+#: functions/vc_extend.php:85
+msgid "If selected, you can select background images for your row."
+msgstr ""
+
+#: functions/vc_extend.php:101
+msgid "Images"
+msgstr ""
+
+#: functions/vc_extend.php:103
+msgid "Select images for your slider"
+msgstr ""
+
+#: functions/vc_extend.php:110
+msgid "Video Background"
+msgstr ""
+
+#: functions/vc_extend.php:112
+msgid "If selected, you can set background of your row as video."
+msgstr ""
+
+#: functions/vc_extend.php:121
+msgid "MP4 Video file path"
+msgstr ""
+
+#: functions/vc_extend.php:130
+msgid "WEBM Video file path"
+msgstr ""
+
+#: functions/vc_extend.php:139
+msgid "OGV Video file path"
+msgstr ""
+
+#: functions/vc_extend.php:146
+msgid "Overlay Background"
+msgstr ""
+
+#: functions/vc_extend.php:148
+msgid "Select background color"
+msgstr ""
+
+#: functions/vc_extend.php:156
+msgid "Row ID"
+msgstr ""
+
+#: functions/vc_extend.php:158
+msgid ""
+"Set a unique ID for your row. Please do not use spaces and custom "
+"characters. Use like; 'about_us' or 'aboutus'. With this option, you can "
+"build a single page site."
+msgstr ""
+
+#: functions/vc_extend.php:164
+msgid "Bottom Button"
+msgstr ""
+
+#: functions/vc_extend.php:168
+msgid ""
+"If selected, you can put a button bottom of your row, useful to jump in page."
+msgstr ""
+
+#: functions/vc_extend.php:175
+msgid "Select an icon from the list of available icon set."
+msgstr ""
+
+#: functions/vc_extend.php:181
+msgid "Link"
+msgstr ""
+
+#: functions/vc_extend.php:200
+msgid "Select size of your heading"
+msgstr ""
+
+#: functions/vc_extend.php:209
+msgid "Open Link in Lightbox?"
+msgstr ""
+
+#: functions/vc_extend.php:216
+msgid "Zoom on Hover?"
+msgstr ""
+
+#: functions/vc_extend.php:223
+msgid "Animated?"
+msgstr ""
+
+#: functions/vc_extend.php:230
+msgid "Infinite Animation?"
+msgstr ""
+
+#: functions/vc_extend.php:238
+msgid "Animation"
+msgstr ""
+
+#: functions/widgets.php:23
+msgid "This widget will help you to display download links with icons."
+msgstr ""
+
+#: functions/widgets.php:25
+msgid "(Logistic) File Download Box"
+msgstr ""
+
+#: functions/widgets.php:98
+msgid "Generic"
+msgstr ""
+
+#: functions/widgets.php:99
+msgid "Audio"
+msgstr ""
+
+#: functions/widgets.php:100
+msgid "Movie"
+msgstr ""
+
+#: functions/widgets.php:101
+msgid "Word"
+msgstr ""
+
+#: functions/widgets.php:102
+msgid "Acrobat"
+msgstr ""
+
+#: functions/widgets.php:103
+msgid "Excel"
+msgstr ""
+
+#: functions/widgets.php:104
+msgid "Compressed"
+msgstr ""
+
+#: functions/widgets.php:105
+msgid "Access"
+msgstr ""
+
+#: functions/widgets.php:144 functions/widgets.php:264
+#: functions/widgets.php:325 functions/widgets.php:456
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets.php:149
+msgid "File #1:"
+msgstr ""
+
+#: functions/widgets.php:155 functions/widgets.php:166
+#: functions/widgets.php:177 functions/widgets.php:188
+#: functions/widgets.php:199
+msgid "Caption:"
+msgstr ""
+
+#: functions/widgets.php:160
+msgid "File #2:"
+msgstr ""
+
+#: functions/widgets.php:171
+msgid "File #3:"
+msgstr ""
+
+#: functions/widgets.php:182
+msgid "File #4:"
+msgstr ""
+
+#: functions/widgets.php:193
+msgid "File #5:"
+msgstr ""
+
+#: functions/widgets.php:215
+msgid "This widget will help you to display a testimonial box."
+msgstr ""
+
+#: functions/widgets.php:217
+msgid "(Logistic) Testimonial Box"
+msgstr ""
+
+#: functions/widgets.php:259
+msgid "Content:"
+msgstr ""
+
+#: functions/widgets.php:279
+msgid "This widget will display custom menu from selected menu."
+msgstr ""
+
+#: functions/widgets.php:283
+msgid "(Logistic) Custom Menu"
+msgstr ""
+
+#: functions/widgets.php:330
+msgid "Menu:"
+msgstr ""
+
+#: functions/widgets.php:354
+msgid "This widget will display latest posts in multiple view modes."
+msgstr ""
+
+#: functions/widgets.php:358
+msgid "(Logistic) Latest Posts"
+msgstr ""
+
+#: functions/widgets.php:452
+msgid "Latest Posts"
+msgstr ""
+
+#: functions/widgets.php:461
+msgid "Type:"
+msgstr ""
+
+#: functions/widgets.php:475
+msgid "Post Type:"
+msgstr ""
+
+#: functions/widgets.php:495
+msgid "Order:"
+msgstr ""
+
+#: functions/widgets.php:509
+msgid "Order By:"
+msgstr ""
+
+#: functions/widgets.php:523
+msgid "Count:"
+msgstr ""
+
+#: functions/widgets.php:536
+msgid "(Logistic) Flickr Widget for user photo stream!"
+msgstr ""
+
+#: functions/widgets.php:577
+msgid "Invalid flickr user ID."
+msgstr ""
+
+#: functions/woocommerce.php:102
+msgid "SHOPPING BAG:&nbsp;&nbsp;"
+msgstr ""
+
+#: header.php:41
+msgid "Skip to Content"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:4
+msgid "Run Request a Rate form?"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:8
+msgid "Please add your HTML content and shortcodes to following box"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:13
+msgid "Request a Rate Form Content"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:17
+msgid ""
+"\"Run Request a Rate form\" option has to be checked in order this content "
+"appear as Request a Rate form"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:22
+msgid "I am having custom character issues"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:26
+msgid ""
+"Please check this field if you are having custom character issues for "
+"Request a Rate window at frontend"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:45
+msgid "Border Color"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:52
+msgid "Border Width"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:72
+msgid "Apply Changes"
+msgstr ""
+
+#: include/admin-menu-style-editor.php:74
+msgid ""
+"Please note, you have to use \"Save Menu\" in order to get this changes "
+"applied"
+msgstr ""
+
+#: include/footer-bars.php:43
+msgid "YOUR SHOPPING BAG"
+msgstr ""
+
+#: include/header.php:39
+msgid "Search results for: \""
+msgstr ""
+
+#: include/header.php:48
+msgid "About: "
+msgstr ""
+
+#: include/header.php:52
+msgid "Category Archives: "
+msgstr ""
+
+#: include/header.php:57
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: include/header.php:59
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: include/header.php:61
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: include/header.php:63
+msgid "Blog Archives"
+msgstr ""
+
+#: include/header.php:68
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: include/primary-menu.php:37 searchform.php:3
+msgid "Type and hit Enter"
+msgstr ""
+
+#: include/share-buttons-blog-regular.php:20 single.php:40
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: include/share-buttons-blog.php:3
+msgid "Read More"
+msgstr ""
+
+#: page-full-blog.php:77
+msgid "READ MORE"
+msgstr ""
+
+#: page-isotope-blog.php:13
+msgid "SHOW ALL"
+msgstr ""
+
+#: page.php:32
+msgid "Written by "
+msgstr ""
+
+#: page.php:34
+msgid "Posted on "
+msgstr ""
+
+#: search.php:37
+msgid "No Results"
+msgstr ""
+
+#: search.php:38
+msgid "Please feel free try again!"
+msgstr ""
+
+#: single.php:122
+msgid "TAGS:"
+msgstr ""
+
+#: single.php:138
+msgid "About "
+msgstr ""
+
+#: vc_templates/vc_cta_button.php:9
+msgid "Text on the button"
+msgstr ""

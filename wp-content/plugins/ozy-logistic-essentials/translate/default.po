@@ -1,0 +1,1583 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: logistic-textdomain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-30 10:13+0300\n"
+"PO-Revision-Date: 2016-07-30 10:13+0300\n"
+"Last-Translator: Ozy Themes <ozy@ozythemes.com>\n"
+"Language-Team: FreeVision <team@freevision.me>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ozy-logistic-essentials.php:25 ozy-logistic-essentials.php:26
+msgid "Sidebars"
+msgstr ""
+
+#: ozy-logistic-essentials.php:52 ozy-logistic-essentials.php:53
+msgid "Custom Fonts"
+msgstr ""
+
+#: ozy-logistic-essentials.php:346
+msgid "CSS Animation"
+msgstr ""
+
+#: ozy-logistic-essentials.php:349
+msgid "No"
+msgstr ""
+
+#: ozy-logistic-essentials.php:349
+msgid "Top to bottom"
+msgstr ""
+
+#: ozy-logistic-essentials.php:349
+msgid "Bottom to top"
+msgstr ""
+
+#: ozy-logistic-essentials.php:349
+msgid "Left to right"
+msgstr ""
+
+#: ozy-logistic-essentials.php:349
+msgid "Right to left"
+msgstr ""
+
+#: ozy-logistic-essentials.php:349
+msgid "Appear from center"
+msgstr ""
+
+#: ozy-logistic-essentials.php:350
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ozy-logistic-essentials.php:436
+msgid "Fancy Tab"
+msgstr ""
+
+#: ozy-logistic-essentials.php:446
+msgid "Model"
+msgstr ""
+
+#: ozy-logistic-essentials.php:453
+msgid "Color #1"
+msgstr ""
+
+#: ozy-logistic-essentials.php:460
+msgid "Color #2"
+msgstr ""
+
+#: ozy-logistic-essentials.php:467
+msgid "Color #3"
+msgstr ""
+
+#: ozy-logistic-essentials.php:474
+msgid "Color #4"
+msgstr ""
+
+#: ozy-logistic-essentials.php:482 ozy-logistic-essentials.php:2038
+#: ozy-logistic-essentials.php:2229 ozy-logistic-essentials.php:2366
+#: ozy-logistic-essentials.php:2485 ozy-logistic-essentials.php:2624
+#: ozy-logistic-essentials.php:2905 ozy-logistic-essentials.php:3826
+#: ozy-logistic-essentials.php:4001 ozy-logistic-essentials.php:4164
+#: ozy-logistic-essentials.php:4258 ozy-logistic-essentials.php:4820
+#: ozy-logistic-essentials.php:5143 ozy-logistic-essentials.php:5186
+#: ozy-logistic-essentials.php:5262 ozy-logistic-essentials.php:5573
+msgid "Extra class name"
+msgstr ""
+
+#: ozy-logistic-essentials.php:484 ozy-logistic-essentials.php:2040
+#: ozy-logistic-essentials.php:2231 ozy-logistic-essentials.php:2368
+#: ozy-logistic-essentials.php:2487 ozy-logistic-essentials.php:2626
+#: ozy-logistic-essentials.php:2907 ozy-logistic-essentials.php:3828
+#: ozy-logistic-essentials.php:4003 ozy-logistic-essentials.php:4166
+#: ozy-logistic-essentials.php:4260 ozy-logistic-essentials.php:4822
+#: ozy-logistic-essentials.php:5145 ozy-logistic-essentials.php:5188
+#: ozy-logistic-essentials.php:5264 ozy-logistic-essentials.php:5575
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ozy-logistic-essentials.php:510
+msgid "Fancy Tab - Item"
+msgstr ""
+
+#: ozy-logistic-essentials.php:519 ozy-logistic-essentials.php:584
+#: ozy-logistic-essentials.php:736 ozy-logistic-essentials.php:817
+#: ozy-logistic-essentials.php:964 ozy-logistic-essentials.php:1001
+#: ozy-logistic-essentials.php:1062 ozy-logistic-essentials.php:1139
+#: ozy-logistic-essentials.php:1219 ozy-logistic-essentials.php:1346
+#: ozy-logistic-essentials.php:1386 ozy-logistic-essentials.php:1510
+#: ozy-logistic-essentials.php:1594 ozy-logistic-essentials.php:1985
+#: ozy-logistic-essentials.php:2434 ozy-logistic-essentials.php:2699
+#: ozy-logistic-essentials.php:4418 ozy-logistic-essentials.php:4708
+#: ozy-logistic-essentials.php:5234 ozy-logistic-essentials.php:5400
+#: ozy-logistic-essentials.php:5511 ozy-logistic-essentials.php:5635
+#: ozy-logistic-essentials.php:5751
+msgid "Title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:525 ozy-logistic-essentials.php:634
+#: ozy-logistic-essentials.php:722 ozy-logistic-essentials.php:1160
+#: ozy-logistic-essentials.php:1454 ozy-logistic-essentials.php:5328
+#: ozy-logistic-essentials.php:5503 ozy-logistic-essentials.php:5519
+#: ozy-logistic-essentials.php:5643
+msgid "Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:529 ozy-logistic-essentials.php:1164
+#: ozy-logistic-essentials.php:1458 ozy-logistic-essentials.php:4428
+msgid "Once you select an Icon, title will not be shown on overlay."
+msgstr ""
+
+#: ozy-logistic-essentials.php:533 ozy-logistic-essentials.php:1154
+#: ozy-logistic-essentials.php:3455 ozy-logistic-essentials.php:5249
+#: ozy-logistic-essentials.php:5430 ozy-logistic-essentials.php:5664
+msgid "Content"
+msgstr ""
+
+#: ozy-logistic-essentials.php:568
+msgid "Knockout Text"
+msgstr ""
+
+#: ozy-logistic-essentials.php:576 ozy-logistic-essentials.php:1969
+#: ozy-logistic-essentials.php:2169 ozy-logistic-essentials.php:2305
+#: ozy-logistic-essentials.php:2441 ozy-logistic-essentials.php:2564
+#: ozy-logistic-essentials.php:5255
+msgid "Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:592 ozy-logistic-essentials.php:1320
+#: ozy-logistic-essentials.php:3462 ozy-logistic-essentials.php:3639
+#: ozy-logistic-essentials.php:3701 ozy-logistic-essentials.php:5526
+msgid "Size"
+msgstr ""
+
+#: ozy-logistic-essentials.php:627
+msgid "Service Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:638
+msgid "<br><br><br><br><br><br>"
+msgstr ""
+
+#: ozy-logistic-essentials.php:642 ozy-logistic-essentials.php:757
+#: ozy-logistic-essentials.php:1462 ozy-logistic-essentials.php:1608
+#: ozy-logistic-essentials.php:2023 ozy-logistic-essentials.php:2214
+#: ozy-logistic-essentials.php:2351 ozy-logistic-essentials.php:2470
+#: ozy-logistic-essentials.php:2609 ozy-logistic-essentials.php:2713
+#: ozy-logistic-essentials.php:3383 ozy-logistic-essentials.php:4317
+#: ozy-logistic-essentials.php:4473 ozy-logistic-essentials.php:4737
+#: ozy-logistic-essentials.php:4933 ozy-logistic-essentials.php:5385
+#: ozy-logistic-essentials.php:5544 ozy-logistic-essentials.php:5806
+msgid "Link"
+msgstr ""
+
+#: ozy-logistic-essentials.php:708
+msgid "Hover Card"
+msgstr ""
+
+#: ozy-logistic-essentials.php:716
+msgid "Small Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:729 ozy-logistic-essentials.php:1182
+#: ozy-logistic-essentials.php:5651
+msgid "Icon Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:743 ozy-logistic-essentials.php:1366
+msgid "Title Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:750 ozy-logistic-essentials.php:1353
+#: ozy-logistic-essentials.php:1394 ozy-logistic-essentials.php:1993
+#: ozy-logistic-essentials.php:2580 ozy-logistic-essentials.php:4459
+#: ozy-logistic-essentials.php:4722 ozy-logistic-essentials.php:4913
+#: ozy-logistic-essentials.php:5767
+msgid "Excerpt"
+msgstr ""
+
+#: ozy-logistic-essentials.php:809
+msgid "Wide Call to Action"
+msgstr ""
+
+#: ozy-logistic-essentials.php:821
+msgid "Only a place holder"
+msgstr ""
+
+#: ozy-logistic-essentials.php:826
+msgid "Bar Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:834
+msgid "Gradient Start"
+msgstr ""
+
+#: ozy-logistic-essentials.php:842
+msgid "Gradient End"
+msgstr ""
+
+#: ozy-logistic-essentials.php:850
+msgid "Face Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:858
+msgid "Part #1"
+msgstr ""
+
+#: ozy-logistic-essentials.php:862
+msgid "Text in gradient section"
+msgstr ""
+
+#: ozy-logistic-essentials.php:867
+msgid "Part #2"
+msgstr ""
+
+#: ozy-logistic-essentials.php:871
+msgid "Text in generic bar"
+msgstr ""
+
+#: ozy-logistic-essentials.php:876
+msgid "Button Caption"
+msgstr ""
+
+#: ozy-logistic-essentials.php:878
+msgid "REQUEST A RATE"
+msgstr ""
+
+#: ozy-logistic-essentials.php:880
+msgid "Caption on request a rate button"
+msgstr ""
+
+#: ozy-logistic-essentials.php:938
+msgid "Read More &rarr;"
+msgstr ""
+
+#: ozy-logistic-essentials.php:956
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: ozy-logistic-essentials.php:968
+msgid "Component title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:973 ozy-logistic-essentials.php:2897
+msgid "Post Count"
+msgstr ""
+
+#: ozy-logistic-essentials.php:977
+msgid "How many post will be listed on one page?"
+msgstr ""
+
+#: ozy-logistic-essentials.php:981
+msgid "Categories"
+msgstr ""
+
+#: ozy-logistic-essentials.php:983
+msgid ""
+"If you want to narrow output, enter category slug names here. Display posts "
+"that have this category (and any children of that category), use category "
+"slug (NOT name). Split names with ','. More information; <a href='http://"
+"codex.wordpress.org/Class_Reference/WP_Query#Category_Parameters' "
+"target='_blank'>http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Category_Parameters</a>"
+msgstr ""
+
+#: ozy-logistic-essentials.php:987
+msgid "Tags"
+msgstr ""
+
+#: ozy-logistic-essentials.php:989
+msgid ""
+"If you want to narrow output, enter tag slug names here. Display posts that "
+"have this tag, use tag slug (NOT name). Split names with ','. More "
+"information; <a href='http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Author_Parameters' target='_blank'>http://codex.wordpress.org/"
+"Class_Reference/WP_Query#Author_Parameters</a>"
+msgstr ""
+
+#: ozy-logistic-essentials.php:993 ozy-logistic-essentials.php:1001
+msgid "Author"
+msgstr ""
+
+#: ozy-logistic-essentials.php:995
+msgid ""
+"If you want to narrow output, enter author slug name here. Display posts "
+"that belongs to author, use 'user_nicename' (NOT name). More information; <a "
+"href='http://codex.wordpress.org/Class_Reference/WP_Query#Tag_Parameters' "
+"target='_blank'>http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Tag_Parameters</a>"
+msgstr ""
+
+#: ozy-logistic-essentials.php:999
+msgid "Order by"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1001
+msgid "Date"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1001
+msgid "ID"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1001
+msgid "Modified"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1001
+msgid "Random"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1001
+msgid "Comment count"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1001
+msgid "Menu order"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1002
+msgid ""
+"Select how to sort retrieved posts. More at <a href=\"http://codex.wordpress."
+"org/Class_Reference/WP_Query#Order_.26_Orderby_Parameters\" target=\"_blank"
+"\">WordPress codex page</a>."
+msgstr ""
+
+#: ozy-logistic-essentials.php:1006
+msgid "Order way"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1008
+msgid "Descending"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1008
+msgid "Ascending"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1009
+msgid ""
+"Designates the ascending or descending order. More at <a href=\"http://codex."
+"wordpress.org/Class_Reference/WP_Query#Order_.26_Orderby_Parameters\" target="
+"\"_blank\">WordPress codex page</a>."
+msgstr ""
+
+#: ozy-logistic-essentials.php:1013
+msgid "Post Status"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1017
+msgid "Show posts associated with certain status."
+msgstr ""
+
+#: ozy-logistic-essentials.php:1052
+msgid "Timeline Wrapper"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1065 ozy-logistic-essentials.php:1222
+#: ozy-logistic-essentials.php:1513
+msgid "Only place holder"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1070
+msgid "Item Background / Arrow Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1123
+msgid "Timeline Item"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1132
+msgid "Position"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1146 ozy-logistic-essentials.php:5656
+msgid "Content (OLD)"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1149 ozy-logistic-essentials.php:5659
+msgid ""
+"Please do not use this field, only to cover old versions. Copy your content "
+"into next Content field."
+msgstr ""
+
+#: ozy-logistic-essentials.php:1168
+msgid "Text Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1175 ozy-logistic-essentials.php:5363
+msgid "Icon Background Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1209
+msgid "Interactive Horizontal Boxes"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1312
+msgid "Interactive Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1326
+msgid "Title Size"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1332 ozy-logistic-essentials.php:1573
+msgid "Background Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1339 ozy-logistic-essentials.php:1580
+#: ozy-logistic-essentials.php:2007 ozy-logistic-essentials.php:3209
+#: ozy-logistic-essentials.php:5555
+msgid "Background Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1359 ozy-logistic-essentials.php:3008
+#: ozy-logistic-essentials.php:3519
+msgid "Text Align"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1373
+msgid "Excerpt Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1379
+msgid "Hover"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1381
+msgid ""
+"If selected, you can set background, title and excerpt color for hover mode."
+msgstr ""
+
+#: ozy-logistic-essentials.php:1402
+msgid "Hover Background Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1410
+msgid "Hover Title Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1418
+msgid "Hover Excerpt Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1425
+msgid "Minimum Height"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1427
+msgid "Set minimum height of your row in pixels. Not required"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1430
+msgid "Video Background"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1432
+msgid "If selected, you can set background of your box as video."
+msgstr ""
+
+#: ozy-logistic-essentials.php:1436
+msgid "MP4 File"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1438
+msgid "MP4 Video file path"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1442
+msgid "WEBM File"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1444
+msgid "WEBM Video file path"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1448
+msgid "OGV File"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1450
+msgid "OGV Video file path"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1468 ozy-logistic-essentials.php:1614
+#: ozy-logistic-essentials.php:2029 ozy-logistic-essentials.php:2220
+#: ozy-logistic-essentials.php:2357 ozy-logistic-essentials.php:2476
+#: ozy-logistic-essentials.php:2615 ozy-logistic-essentials.php:2727
+#: ozy-logistic-essentials.php:2818 ozy-logistic-essentials.php:3389
+#: ozy-logistic-essentials.php:4115 ozy-logistic-essentials.php:4323
+#: ozy-logistic-essentials.php:4479 ozy-logistic-essentials.php:4743
+#: ozy-logistic-essentials.php:4939 ozy-logistic-essentials.php:5392
+msgid "Link Target"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1472 ozy-logistic-essentials.php:1618
+#: ozy-logistic-essentials.php:2033 ozy-logistic-essentials.php:2224
+#: ozy-logistic-essentials.php:2361 ozy-logistic-essentials.php:2480
+#: ozy-logistic-essentials.php:2619 ozy-logistic-essentials.php:2731
+#: ozy-logistic-essentials.php:2822 ozy-logistic-essentials.php:3393
+#: ozy-logistic-essentials.php:4119 ozy-logistic-essentials.php:4327
+#: ozy-logistic-essentials.php:4483 ozy-logistic-essentials.php:4747
+#: ozy-logistic-essentials.php:4943
+msgid "Select link target window."
+msgstr ""
+
+#: ozy-logistic-essentials.php:1500
+msgid "Spinner List"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1564
+msgid "Spinner List Item"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1587 ozy-logistic-essentials.php:2000
+#: ozy-logistic-essentials.php:2191 ozy-logistic-essentials.php:2328
+#: ozy-logistic-essentials.php:2462 ozy-logistic-essentials.php:2586
+#: ozy-logistic-essentials.php:4899 ozy-logistic-essentials.php:5560
+msgid "Foreground Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1601 ozy-logistic-essentials.php:2706
+#: ozy-logistic-essentials.php:4715 ozy-logistic-essentials.php:4996
+#: ozy-logistic-essentials.php:5241 ozy-logistic-essentials.php:5759
+msgid "Sub Title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1604
+msgid "CLICK HERE FOR MORE INFO &gt;"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1664
+msgid "Multi Location Google Map"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1675 ozy-logistic-essentials.php:1834
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1679 ozy-logistic-essentials.php:1838
+msgid ""
+"<a href=\"http://freevision.me/google-maps-key/\" target=\"_blank\">Learn "
+"how to get an API Key.</a>"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1684 ozy-logistic-essentials.php:1843
+#: ozy-logistic-essentials.php:3375 ozy-logistic-essentials.php:3556
+msgid "Height"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1692 ozy-logistic-essentials.php:1859
+msgid "Zoom Level"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1699 ozy-logistic-essentials.php:1875
+msgid "Hue Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1707 ozy-logistic-essentials.php:1883
+msgid "Saturation"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1715 ozy-logistic-essentials.php:1891
+msgid "Lightness"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1749
+msgid "Location"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1758
+msgid "Info Box Caption"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1761
+msgid "Head Quarter"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1766 ozy-logistic-essentials.php:1851
+msgid "Address"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1769 ozy-logistic-essentials.php:1854
+msgid "Melbourne, Australia"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1774 ozy-logistic-essentials.php:1867
+msgid "Custom Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1776 ozy-logistic-essentials.php:1869
+msgid "You can select a custom icon for your pin on the map"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1824
+msgid "Custom Google Map"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1959
+msgid "Simple Info Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1977 ozy-logistic-essentials.php:2177
+#: ozy-logistic-essentials.php:2313 ozy-logistic-essentials.php:2572
+#: ozy-logistic-essentials.php:3160 ozy-logistic-essentials.php:4906
+#: ozy-logistic-essentials.php:5888
+msgid "Caption"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1980
+msgid "Caption Over Title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:1988
+msgid "Enter Title Here"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2015 ozy-logistic-essentials.php:2721
+#: ozy-logistic-essentials.php:2812 ozy-logistic-essentials.php:4109
+#: ozy-logistic-essentials.php:4466 ozy-logistic-essentials.php:4926
+msgid "Link Caption"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2017
+msgid "LEARN MORE"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2068
+msgid "Image Box With Caption Wrapper"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2079
+msgid "Item Count Per Row"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2087
+msgid "Item Spacing"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2159
+msgid "Image Box With Caption"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2180 ozy-logistic-essentials.php:2575
+msgid "Box Title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2184
+msgid "Hover Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2198 ozy-logistic-essentials.php:2335
+#: ozy-logistic-essentials.php:2593
+msgid "Tag Background Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2206 ozy-logistic-essentials.php:2343
+#: ozy-logistic-essentials.php:2601
+msgid "Tag"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2209
+msgid "SEE MORE"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2295
+msgid "Coloured Content Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2316
+msgid "Caption Goes Here"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2321 ozy-logistic-essentials.php:2449
+msgid "Hover Caption"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2324
+msgid "SHOP NOW"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2346
+msgid "SAY SOMETHING"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2424
+msgid "Simple Hover Image Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2455
+msgid "Main Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2554
+msgid "Fancy Image Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2604
+msgid "MORE"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2674
+msgid "READ MORE &nbsp;&nbsp;&gt;"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2689
+msgid "News Bar"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2702
+msgid "NEWS"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2709
+msgid "STAY TUNED"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2717
+msgid "Link to blog / news page"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2724
+msgid "VIEW ALL"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2802
+msgid "Fancy Post List"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2815 ozy-logistic-essentials.php:4112
+#: ozy-logistic-essentials.php:4469
+msgid "Find out more →"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2826 ozy-logistic-essentials.php:3793
+#: ozy-logistic-essentials.php:3968 ozy-logistic-essentials.php:4131
+#: ozy-logistic-essentials.php:4218
+msgid "Item Count"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2830
+msgid "How many post will be shown on the list."
+msgstr ""
+
+#: ozy-logistic-essentials.php:2888
+msgid "Post List With Title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2935
+msgid "Mail Chimp"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2973
+msgid "Anything Wrapper 2"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2984
+msgid "Vertical Position"
+msgstr ""
+
+#: ozy-logistic-essentials.php:2992
+msgid "Horizontal Position"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3000 ozy-logistic-essentials.php:5938
+msgid "Width"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3016 ozy-logistic-essentials.php:3082
+msgid "Padding Top"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3024 ozy-logistic-essentials.php:3090
+msgid "Padding Right"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3032 ozy-logistic-essentials.php:3098
+msgid "Padding Bottom"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3040 ozy-logistic-essentials.php:3106
+msgid "Padding Left"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3071
+msgid "Anything Wrapper"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3150
+msgid "Styled Heading"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3163 ozy-logistic-essentials.php:5891
+msgid "Enter your caption here"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3164
+msgid "Caption of the component."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3169 ozy-logistic-essentials.php:5881
+msgid "Caption Size"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3177 ozy-logistic-essentials.php:4919
+#: ozy-logistic-essentials.php:5925
+msgid "Caption Position"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3185 ozy-logistic-essentials.php:5896
+msgid "Border Style"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3193 ozy-logistic-essentials.php:5903
+msgid "Border Size"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3201
+msgid "Accent Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3217
+msgid "Padding"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3278
+msgid "Flip Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3286
+msgid "Front Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3293
+msgid "Front Title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3300
+msgid "Front Excerpt"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3307
+msgid "Front Background Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3314
+msgid "Front Background Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3321
+msgid "Front Foreground Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3327
+msgid "Back Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3334
+msgid "Back Title"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3341
+msgid "Back Excerpt"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3348
+msgid "Back Background Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3355
+msgid "Back Background Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3362
+msgid "Back Foreground Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3368
+msgid "Direction"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3379
+msgid "Please enter only integer values. Will be processed in pixels."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3446
+msgid "Textillate"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3458
+msgid "Each line will be processed as a slide."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3469
+msgid "Display Time"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3472
+msgid "Sets the minimum display time for each text before it is replaced."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3476
+msgid "Loop"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3482 ozy-logistic-essentials.php:3645
+msgid "Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3486 ozy-logistic-essentials.php:3649
+msgid "Color of your text."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3489
+msgid "Font Weight"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3495
+msgid "In Animation Effect"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3501
+msgid "In Animation Type"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3507
+msgid "Out Animation Effect"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3513
+msgid "Out Animation Type"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3546
+msgid "Floating Box"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3559
+msgid ""
+"Please set same height as your row height as initial value, in order to make "
+"it work as expected"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3563
+msgid "Content Align"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3599
+msgid "Morph Text"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3608
+msgid "Before Rotating Text"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3611
+msgid "This text will be shown before rotating text."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3616
+msgid "After Rotating Text"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3619
+msgid "This text will be shown after rotating text."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3624
+msgid "Rotating Text"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3627
+msgid ""
+"Use separator between words, default \",\". Seperator could be managed by "
+"the box below."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3632
+msgid "Separator"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3635
+msgid ""
+"If you don't want commas to be the separator, you can define a new separator "
+"(|, &, * etc.) by yourself using this field."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3652
+msgid "Rotating Text Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3656
+msgid "Color of your rotating text."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3659
+msgid "Effect"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3666
+msgid "Speed"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3669
+msgid "How many milliseconds until the next word show."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3692
+msgid "Spacer"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3704
+msgid "Enter size like 10px, 3em. Please don't use percentage values."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3767
+msgid "Instagram Carousel"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3777
+msgid "User ID"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3781
+msgid ""
+"Use your own images or get User ID <a href=\"http://jelled.com/instagram/"
+"lookup-user-id\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3785 ozy-logistic-essentials.php:3960
+#: ozy-logistic-essentials.php:4123 ozy-logistic-essentials.php:4210
+#: ozy-logistic-essentials.php:4796
+msgid "Auto Play"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3789 ozy-logistic-essentials.php:3964
+#: ozy-logistic-essentials.php:4127 ozy-logistic-essentials.php:4214
+#: ozy-logistic-essentials.php:4800
+msgid ""
+"Change to any available integrer for example 3000 to play every 3 seconds. "
+"If you set it true default speed will be 5 seconds."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3797 ozy-logistic-essentials.php:3972
+#: ozy-logistic-essentials.php:4135 ozy-logistic-essentials.php:4222
+msgid ""
+"This variable allows you to set the maximum amount of items displayed at a "
+"time with the widest browser width."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3801 ozy-logistic-essentials.php:3976
+#: ozy-logistic-essentials.php:4139 ozy-logistic-essentials.php:4226
+msgid "Show Single Item?"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3805 ozy-logistic-essentials.php:3980
+#: ozy-logistic-essentials.php:4143 ozy-logistic-essentials.php:4230
+msgid "Display only one item. Set Item Count to 1 to make it work as expected."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3809 ozy-logistic-essentials.php:3984
+#: ozy-logistic-essentials.php:4147 ozy-logistic-essentials.php:4234
+#: ozy-logistic-essentials.php:4804
+msgid "Slide Speed"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3813 ozy-logistic-essentials.php:3988
+#: ozy-logistic-essentials.php:4151 ozy-logistic-essentials.php:4238
+#: ozy-logistic-essentials.php:4808
+msgid "Slide speed in milliseconds."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3817 ozy-logistic-essentials.php:3992
+#: ozy-logistic-essentials.php:4155 ozy-logistic-essentials.php:4242
+msgid "Auto Height"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3821 ozy-logistic-essentials.php:3996
+#: ozy-logistic-essentials.php:4159 ozy-logistic-essentials.php:4246
+msgid ""
+"Add height to owl-wrapper-outer so you can use diffrent heights on slides. "
+"Use it only for one item per page setting."
+msgstr ""
+
+#: ozy-logistic-essentials.php:3851
+msgid "WooCommerce Plugin is not installed or activated"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3896
+msgid "SELECT OPTIONS"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3900
+msgid "VIEW OPTIONS"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3904 ozy-logistic-essentials.php:3913
+#: ozy-logistic-essentials.php:3927
+msgid "READ MORE"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3909
+msgid "ADD TO CART"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3925
+msgid "SEE PRODUCT DETAILS"
+msgstr ""
+
+#: ozy-logistic-essentials.php:3951
+msgid "WooCommerce Product Carousel"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4083
+msgid "Owl Carousel Feed"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4092 ozy-logistic-essentials.php:4410
+#: ozy-logistic-essentials.php:4700
+msgid "Carousel Background"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4096 ozy-logistic-essentials.php:4414
+#: ozy-logistic-essentials.php:4704
+msgid "Not requrired. Select a background color for your item."
+msgstr ""
+
+#: ozy-logistic-essentials.php:4100
+msgid "Hover Overlay?"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4104 ozy-logistic-essentials.php:4449
+msgid "ON/OFF default overlay on your items."
+msgstr ""
+
+#: ozy-logistic-essentials.php:4200
+msgid "Owl Carousel"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4250 ozy-logistic-essentials.php:4812
+msgid "Bullet Navigation"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4294
+msgid "Owl Carousel Item"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4303 ozy-logistic-essentials.php:4403
+#: ozy-logistic-essentials.php:4886
+msgid "Carousel Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4307 ozy-logistic-essentials.php:4407
+#: ozy-logistic-essentials.php:4691 ozy-logistic-essentials.php:4890
+msgid "Select images for your slider."
+msgstr ""
+
+#: ozy-logistic-essentials.php:4310 ozy-logistic-essentials.php:4439
+#: ozy-logistic-essentials.php:4694 ozy-logistic-essentials.php:4893
+msgid "Image size"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4313 ozy-logistic-essentials.php:4442
+#: ozy-logistic-essentials.php:4697 ozy-logistic-essentials.php:4896
+msgid ""
+"Enter image size. Example: 'thumbnail', 'medium', 'large', 'full' or other "
+"sizes defined by current theme. Alternatively enter image size in pixels: "
+"200x100 (Width x Height). Leave empty to use 'thumbnail' size."
+msgstr ""
+
+#: ozy-logistic-essentials.php:4394
+msgid "Owl Carousel Extended Item"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4424
+msgid "or Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4432
+msgid "or Image Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4436
+msgid ""
+"Once you select an Image Icon, title or Icon will not be shown on overlay."
+msgstr ""
+
+#: ozy-logistic-essentials.php:4445
+msgid "Default Overlay?"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4452
+msgid "Overlay Background Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4678
+msgid "Owl Carousel Testimonial Item"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4687
+msgid "Carousel Background Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4729
+msgid "Profile Picture"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4733
+msgid "Select a picture to use as profile picture of testimonial's writer."
+msgstr ""
+
+#: ozy-logistic-essentials.php:4786
+msgid "Simple Slider"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4877
+msgid "Simple Slider - Slide"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4929
+msgid "Find Out More"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4946
+msgid "Link Style"
+msgstr ""
+
+#: ozy-logistic-essentials.php:4985
+msgid "Count To"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5000
+msgid "Counter title."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5004
+msgid "From"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5008
+msgid "Counter start from"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5012
+msgid "To"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5016
+msgid "Counter count to"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5020
+msgid "Sign"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5024
+#, php-format
+msgid "Enter a sign like % or whatever you like"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5027
+msgid "Sign Position"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5031
+msgid "Select position of your sign."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5034
+msgid "Forecolor"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5090
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5114
+msgid "Twitter Slider"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5122 ozy-logistic-essentials.php:5179
+msgid "ForeColor"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5126 ozy-logistic-essentials.php:5183
+msgid "Font color for rest of the slider"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5130
+msgid "Count"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5137
+msgid "Screenname"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5169
+msgid "Testimonials Slider"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5225
+msgid "Testimonial"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5251
+msgid "Testimonial content."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5259
+msgid "Select an image to show as testimonial visual."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5319
+msgid "Title With Icon"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5332 ozy-logistic-essentials.php:5381
+msgid "Title heading style."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5335
+msgid "Icon Size"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5337
+msgid "medium"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5337
+msgid "large"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5337
+msgid "xlarge"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5337
+msgid "xxlarge"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5337
+msgid "xxxlarge"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5339
+msgid "Size of the Icon."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5342
+msgid "Icon Position"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5344
+msgid "left"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5344
+msgid "top"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5346 ozy-logistic-essentials.php:5360
+msgid "Position of the Icon."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5349
+msgid "Icon Alternative Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5353
+msgid "This field is not required."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5356
+msgid "Icon Background Type"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5358
+msgid "rectangle"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5358
+msgid "rounded"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5358
+msgid "circle"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5358
+msgid "clear"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5367
+msgid "Background color of Icon."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5370 ozy-logistic-essentials.php:5565
+msgid "Icon Shadow Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5374 ozy-logistic-essentials.php:5569
+msgid "Shadow color of Icon."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5377
+msgid "Heading Style"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5389
+msgid "Enter full path."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5396
+msgid ""
+"Select link target window. fancybox will launch an lightbox window for "
+"images, and fancybox-media will launch a lightbox window for frames/video."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5403
+msgid "Enter your title here"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5404
+msgid "Content of the title."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5407
+msgid "Font Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5411
+msgid "This option will affect Title and Content color."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5414
+msgid "Connected"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5418
+msgid "Select yes to connect elements to next one with a dashed border."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5421 ozy-logistic-essentials.php:5910
+msgid "Border Color"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5433
+msgid "Type your content here."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5515 ozy-logistic-essentials.php:5639
+msgid "Only place holder."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5523 ozy-logistic-essentials.php:5647
+msgid "Select a type icon from the opened window."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5532
+msgid "Style"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5538 ozy-logistic-essentials.php:5946
+msgid "Align"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5549
+msgid "Target Window"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5625
+msgid "Custom List"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5733
+msgid "Team Member"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5743
+msgid "Member Image"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5747
+msgid "Select image for your team member."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5755
+msgid "Title for your Team Member, like a name."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5763
+msgid "Sub Title for your Team Member, like work title."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5774
+msgid "Twitter"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5778
+msgid "Enter your Twitter account name"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5782
+msgid "Facebook"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5786
+msgid "Enter your Facebook account name"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5790
+msgid "LinkedIn"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5794
+msgid "Enter your LinkedIn account name"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5798
+msgid "Pinterest"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5802
+msgid "Enter your Pinterest account name"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5810
+msgid "Define a path to details page"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5871
+msgid "Separator (Divider) With Caption"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5892
+msgid "Caption of the divider."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5917
+msgid "Caption Align"
+msgstr ""
+
+#: ozy-logistic-essentials.php:5921
+msgid "Caption align."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5929
+msgid "Caption position."
+msgstr ""
+
+#: ozy-logistic-essentials.php:5932
+msgid "More Customization"
+msgstr ""

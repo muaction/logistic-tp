@@ -1,0 +1,79 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 12:05
+  	*/
+
+@font-face {
+  font-family: "Flaticon6";
+  src: url("Flaticon.eot");
+  src: url("Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon6";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="oic-flaticon6-"]:before, [class*=" oic-flaticon6-"]:before,
+[class^="oic-flaticon6-"]:after, [class*=" oic-flaticon6-"]:after {   
+	font-family: Flaticon6;
+	font-style: normal;
+}
+
+.oic-flaticon6-aerial-tramway:before { content: "\f100"; }
+.oic-flaticon6-aeroplane:before { content: "\f101"; }
+.oic-flaticon6-airplane:before { content: "\f102"; }
+.oic-flaticon6-auto-ricksaw:before { content: "\f103"; }
+.oic-flaticon6-beetle:before { content: "\f104"; }
+.oic-flaticon6-bike:before { content: "\f105"; }
+.oic-flaticon6-boat:before { content: "\f106"; }
+.oic-flaticon6-boat-1:before { content: "\f107"; }
+.oic-flaticon6-boat-2:before { content: "\f108"; }
+.oic-flaticon6-bus:before { content: "\f109"; }
+.oic-flaticon6-car:before { content: "\f10a"; }
+.oic-flaticon6-catamaran:before { content: "\f10b"; }
+.oic-flaticon6-chairlift:before { content: "\f10c"; }
+.oic-flaticon6-classic-car:before { content: "\f10d"; }
+.oic-flaticon6-double-decker-bus:before { content: "\f10e"; }
+.oic-flaticon6-helicopter:before { content: "\f10f"; }
+.oic-flaticon6-hot-air-balloon:before { content: "\f110"; }
+.oic-flaticon6-house-boat:before { content: "\f111"; }
+.oic-flaticon6-jeep:before { content: "\f112"; }
+.oic-flaticon6-jet-boating:before { content: "\f113"; }
+.oic-flaticon6-locomotive:before { content: "\f114"; }
+.oic-flaticon6-lorry:before { content: "\f115"; }
+.oic-flaticon6-minibus:before { content: "\f116"; }
+.oic-flaticon6-minivan:before { content: "\f117"; }
+.oic-flaticon6-minivan-taxi:before { content: "\f118"; }
+.oic-flaticon6-monorail:before { content: "\f119"; }
+.oic-flaticon6-motorbike:before { content: "\f11a"; }
+.oic-flaticon6-quad:before { content: "\f11b"; }
+.oic-flaticon6-sailboat:before { content: "\f11c"; }
+.oic-flaticon6-sailing-ship:before { content: "\f11d"; }
+.oic-flaticon6-school-bus:before { content: "\f11e"; }
+.oic-flaticon6-sidecar:before { content: "\f11f"; }
+.oic-flaticon6-spaceship:before { content: "\f120"; }
+.oic-flaticon6-sport-car:before { content: "\f121"; }
+.oic-flaticon6-station-wagon:before { content: "\f122"; }
+.oic-flaticon6-submarine:before { content: "\f123"; }
+.oic-flaticon6-taxi:before { content: "\f124"; }
+.oic-flaticon6-tractor:before { content: "\f125"; }
+.oic-flaticon6-train:before { content: "\f126"; }
+.oic-flaticon6-train-1:before { content: "\f127"; }
+.oic-flaticon6-train-2:before { content: "\f128"; }
+.oic-flaticon6-tram:before { content: "\f129"; }
+.oic-flaticon6-tricycle:before { content: "\f12a"; }
+.oic-flaticon6-trolleybus:before { content: "\f12b"; }
+.oic-flaticon6-truck:before { content: "\f12c"; }
+.oic-flaticon6-ufo:before { content: "\f12d"; }
+.oic-flaticon6-underground:before { content: "\f12e"; }
+.oic-flaticon6-van:before { content: "\f12f"; }
+.oic-flaticon6-volskwagen-van:before { content: "\f130"; }
+.oic-flaticon6-zeppelin:before { content: "\f131"; }

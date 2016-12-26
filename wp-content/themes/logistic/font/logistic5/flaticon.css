@@ -1,0 +1,79 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 14:46
+  	*/
+
+@font-face {
+  font-family: "Flaticon5";
+  src: url("Flaticon.eot");
+  src: url("Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon5";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="oic-flaticon5-"]:before, [class*=" oic-flaticon5-"]:before,
+[class^="oic-flaticon5-"]:after, [class*=" oic-flaticon5-"]:after {   
+  font-family: Flaticon5;
+	font-style: normal;
+}
+
+.oic-flaticon5-add-button:before { content: "\f100"; }
+.oic-flaticon5-auction:before { content: "\f101"; }
+.oic-flaticon5-bar-code:before { content: "\f102"; }
+.oic-flaticon5-bitcoin:before { content: "\f103"; }
+.oic-flaticon5-buy:before { content: "\f104"; }
+.oic-flaticon5-calculator:before { content: "\f105"; }
+.oic-flaticon5-calendar:before { content: "\f106"; }
+.oic-flaticon5-clock:before { content: "\f107"; }
+.oic-flaticon5-clothes:before { content: "\f108"; }
+.oic-flaticon5-coin:before { content: "\f109"; }
+.oic-flaticon5-coupon:before { content: "\f10a"; }
+.oic-flaticon5-credit-card:before { content: "\f10b"; }
+.oic-flaticon5-delivery:before { content: "\f10c"; }
+.oic-flaticon5-delivery-1:before { content: "\f10d"; }
+.oic-flaticon5-delivery-2:before { content: "\f10e"; }
+.oic-flaticon5-delivery-3:before { content: "\f10f"; }
+.oic-flaticon5-euro:before { content: "\f110"; }
+.oic-flaticon5-fragile:before { content: "\f111"; }
+.oic-flaticon5-list:before { content: "\f112"; }
+.oic-flaticon5-list-1:before { content: "\f113"; }
+.oic-flaticon5-manager:before { content: "\f114"; }
+.oic-flaticon5-medal:before { content: "\f115"; }
+.oic-flaticon5-megaphone:before { content: "\f116"; }
+.oic-flaticon5-online-shopping:before { content: "\f117"; }
+.oic-flaticon5-padlock:before { content: "\f118"; }
+.oic-flaticon5-parcel:before { content: "\f119"; }
+.oic-flaticon5-piggy-bank:before { content: "\f11a"; }
+.oic-flaticon5-pin:before { content: "\f11b"; }
+.oic-flaticon5-pin-1:before { content: "\f11c"; }
+.oic-flaticon5-post:before { content: "\f11d"; }
+.oic-flaticon5-protection:before { content: "\f11e"; }
+.oic-flaticon5-question:before { content: "\f11f"; }
+.oic-flaticon5-repair-tools:before { content: "\f120"; }
+.oic-flaticon5-return:before { content: "\f121"; }
+.oic-flaticon5-shopping-cart:before { content: "\f122"; }
+.oic-flaticon5-smartphone:before { content: "\f123"; }
+.oic-flaticon5-smartphone-1:before { content: "\f124"; }
+.oic-flaticon5-stopwatch:before { content: "\f125"; }
+.oic-flaticon5-suitcase:before { content: "\f126"; }
+.oic-flaticon5-supermarket:before { content: "\f127"; }
+.oic-flaticon5-tap:before { content: "\f128"; }
+.oic-flaticon5-tap-1:before { content: "\f129"; }
+.oic-flaticon5-telemarketer:before { content: "\f12a"; }
+.oic-flaticon5-telephone:before { content: "\f12b"; }
+.oic-flaticon5-time:before { content: "\f12c"; }
+.oic-flaticon5-truck:before { content: "\f12d"; }
+.oic-flaticon5-truck-1:before { content: "\f12e"; }
+.oic-flaticon5-umbrella:before { content: "\f12f"; }
+.oic-flaticon5-user:before { content: "\f130"; }
+.oic-flaticon5-world-grid:before { content: "\f131"; }

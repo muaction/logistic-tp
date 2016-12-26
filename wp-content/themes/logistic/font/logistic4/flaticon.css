@@ -1,0 +1,154 @@
+@font-face {
+	font-family: "Flaticon4";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: 'Flaticon4';
+		src: url('flaticon.svg#fontset') format('svg');	
+	}
+}
+[class^="oic-flaticon4-"]:before, [class*=" oic-flaticon4-"]:before,
+[class^="oic-flaticon4-"]:after, [class*=" oic-flaticon4-"]:after {
+	font-family: Flaticon4;
+	/*font-size: 20px;*/
+	font-style: normal;
+	/*margin-left: 20px;*/
+}.oic-flaticon4-2443:before {
+	content: "\e000";
+}
+.oic-flaticon4-aerial3:before {
+	content: "\e001";
+}
+.oic-flaticon4-airplane79:before {
+	content: "\e002";
+}
+.oic-flaticon4-box57:before {
+	content: "\e003";
+}
+.oic-flaticon4-call41:before {
+	content: "\e004";
+}
+.oic-flaticon4-cane3:before {
+	content: "\e005";
+}
+.oic-flaticon4-cargo13:before {
+	content: "\e006";
+}
+.oic-flaticon4-charter:before {
+	content: "\e007";
+}
+.oic-flaticon4-chronometer12:before {
+	content: "\e008";
+}
+.oic-flaticon4-chronometer13:before {
+	content: "\e009";
+}
+.oic-flaticon4-clipboard65:before {
+	content: "\e00a";
+}
+.oic-flaticon4-credit79:before {
+	content: "\e00b";
+}
+.oic-flaticon4-cube27:before {
+	content: "\e00c";
+}
+.oic-flaticon4-delivery42:before {
+	content: "\e00d";
+}
+.oic-flaticon4-delivery43:before {
+	content: "\e00e";
+}
+.oic-flaticon4-delivery44:before {
+	content: "\e00f";
+}
+.oic-flaticon4-earth198:before {
+	content: "\e010";
+}
+.oic-flaticon4-female218:before {
+	content: "\e011";
+}
+.oic-flaticon4-global17:before {
+	content: "\e012";
+}
+.oic-flaticon4-global18:before {
+	content: "\e013";
+}
+.oic-flaticon4-global19:before {
+	content: "\e014";
+}
+.oic-flaticon4-global20:before {
+	content: "\e015";
+}
+.oic-flaticon4-global21:before {
+	content: "\e016";
+}
+.oic-flaticon4-list57:before {
+	content: "\e017";
+}
+.oic-flaticon4-locked24:before {
+	content: "\e018";
+}
+.oic-flaticon4-moving10:before {
+	content: "\e019";
+}
+.oic-flaticon4-moving11:before {
+	content: "\e01a";
+}
+.oic-flaticon4-moving12:before {
+	content: "\e01b";
+}
+.oic-flaticon4-oceanic:before {
+	content: "\e01c";
+}
+.oic-flaticon4-organizing:before {
+	content: "\e01d";
+}
+.oic-flaticon4-package15:before {
+	content: "\e01e";
+}
+.oic-flaticon4-package16:before {
+	content: "\e01f";
+}
+.oic-flaticon4-package17:before {
+	content: "\e020";
+}
+.oic-flaticon4-packages3:before {
+	content: "\e021";
+}
+.oic-flaticon4-shopping185:before {
+	content: "\e022";
+}
+.oic-flaticon4-shopping186:before {
+	content: "\e023";
+}
+.oic-flaticon4-time20:before {
+	content: "\e024";
+}
+.oic-flaticon4-train25:before {
+	content: "\e025";
+}
+.oic-flaticon4-trolleybuses:before {
+	content: "\e026";
+}
+.oic-flaticon4-umbrella37:before {
+	content: "\e027";
+}
+.oic-flaticon4-unlock31:before {
+	content: "\e028";
+}
+.oic-flaticon4-weekly11:before {
+	content: "\e029";
+}
+.oic-flaticon4-world92:before {
+	content: "\e02a";
+}
+.oic-flaticon4-world93:before {
+	content: "\e02b";
+}
